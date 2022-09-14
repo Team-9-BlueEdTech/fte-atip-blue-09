@@ -15,3 +15,4 @@ Fazem parte da equipe desenvolvedora:
 Nossa Jornada começa impulsionada pelo propósito de construir um elo entre pessoa neuroaTípicas e empresas incríveis.
 
 Para dar início à caminhada, a aTip formula perguntas-chave para conhecer a cultura da empresa e também o perfil das pessoas colaboradoras.
+asuhaush modif
