@@ -2,7 +2,7 @@
 const App = () => { 
   return (
     <h1>
-      Hello, I'm App.tsx
+      Hello, I'm NavBar
     </h1>
   )
 }
