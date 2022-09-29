@@ -1,11 +1,8 @@
-import Header from "./components/Header"
+import Home from "./pages/Home"
 
 const App = () => { 
   return (
-    <h1>
-      <Header />
-      Hello, I'm App.tsx
-    </h1>
+    <Home />
   )
 }
 
