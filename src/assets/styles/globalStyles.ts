@@ -8,4 +8,8 @@ export const GlobalStyle = createGlobalStyle`
   margin: 0;
   border: 0;
 }
+
+body {
+  font: 500 1rem Source Sans Pro,sans-serif;
+}
 `

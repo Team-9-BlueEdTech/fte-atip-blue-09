@@ -1,9 +1,14 @@
+import * as S from './styles'
 
-const Button = () => { 
+type IncomingLink = {
+  children: React.ReactNode;
+}
+
+const Button = (props: IncomingLink) => {
   return (
-    <h1>
-      Hello, I'm Button
-    </h1>
+    <S.Button>
+      {props.children}
+    </S.Button>
   )
 }
 
