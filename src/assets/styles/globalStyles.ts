@@ -6,4 +6,8 @@ export const GlobalStyle = createGlobalStyle`
   padding: 0;
   margin: 0;
 }
+
+body {
+  font: 500 1rem Source Sans Pro,sans-serif;
+}
 `
