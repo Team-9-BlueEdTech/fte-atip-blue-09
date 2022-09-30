@@ -1,0 +1,62 @@
+.head{
+    margin-top: 2em;
+    margin-bottom: 3em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-logo {
+    width: 2em;
+    height: 2em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.1);
+}
+
+.boxleft {
+    display: flex;
+    align-items: center;
+    background-color: #e1dbdb;
+    justify-content: space-between;
+    text-align: center;
+    width: 15%;
+    height: 100%;
+}
+
+.boxleft div {
+    align-items: center;
+    text-align: center;
+    margin-left: 3em;
+}
+
+.boxleft div div{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+.boxright  {
+    display: flex;
+    align-items: center;
+    justify-content: space-around; 
+    margin-right: 5em;
+    width: 20%;
+    color: darkgrey;
+}
+
+.profilepic {
+    width: 4em;
+    height: 4em;
+    border-radius: 50%;
+    margin-right: 0.5em;
+}
+
+.linksettings {
+    cursor: pointer;
+}
