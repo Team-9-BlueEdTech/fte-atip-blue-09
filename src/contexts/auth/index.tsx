@@ -7,8 +7,8 @@ import {
 } from "react";
 import swal from "sweetalert";
 import { useNavigate } from "react-router-dom";
-import { User } from "types/index";
-import api from "/services/api";
+import { User } from "../../types/index";
+import api from "../../services/api"
 
 interface AuthProviderProps {
   children: ReactNode;

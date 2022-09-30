@@ -2,48 +2,44 @@ import styled, { css } from "styled-components";
 
 interface StyledButtonProps {
     variant?: "disabled" | "cancel";
-    size?: "small" | "large" | "x-large";
   }
 
 export const StyledButton = styled.button<StyledButtonProps>`
-  ${({ theme, variant, size }) => css`
-    width: 70%;
+  ${({ variant }) => css`
+    width: 11.5rem;
     height: 3rem;
-    border-radius: 2px;
-    border: none;
-    background-color: #90df5e;
+    border-radius: 4rem;
+
+    background-color: #aa6cff;
     color: white;
-    font-size: 1.5em;
-    margin: 1rem;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-size: 1.2em;
     cursor: pointer;
+
+    font: 600 1.2rem Source Sans Pro, sans-serif;
+
+    :hover {
+      background-color: #5a19b4;
+    }
+
     ${variant === "disabled" &&
     css`
-      background-color: ${theme.colors.baseBg2};
-      color: ${theme.colors.primaryColor};
-      border: 1px solid ${theme.colors.baseBg1};
-      box-shadow: none;
+      background-color: #f1f1f1;
+      color: #a7a7a7;
+      cursor: default;
+
+      :hover {
+        background-color: #f1f1f1;
+      }
     `}
+
     ${variant === "cancel" &&
     css`
-      background-color: ${theme.colors.baseBg2};
-      color: ${theme.colors.secondaryColor};
-      border: 1px solid ${theme.colors.secondaryColor};
-      box-shadow: none;
-    `}
-    ${size === "small" &&
-    css`
-      height: 2.125rem;
-      padding: 0 0.75rem;
-      width: 7.25rem;
-    `}
-    ${size === "large" &&
-    css`
-      width: 18.625rem;
-    `}
-    ${size === "x-large" &&
-    css`
-      width: 22.5rem;
+      background-color: #f94f38;
+      color: white;
+
+      :hover {
+        background-color: #B21A06;
+      }
     `}
   `}
 `;

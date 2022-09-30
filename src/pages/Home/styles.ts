@@ -46,6 +46,7 @@ export const SectionEmpresasHeader = styled.section`
   span {
     font-weight: 600;
     font-size: 1.125rem;
+    margin-bottom: 1.5rem;
   }
 
   button {

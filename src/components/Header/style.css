@@ -18,7 +18,7 @@
 }
 
 .boxleft {
-    display: flex;;
+    display: flex;
     align-items: center;
     background-color: #e1dbdb;
     justify-content: space-between;

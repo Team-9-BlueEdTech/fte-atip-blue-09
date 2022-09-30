@@ -1,8 +1,11 @@
 import * as S from "./styles"
 import logo from "../../../assets/images/logo-aTip.png"
 import Button from "../../../components/Button"
+import { useNavigate } from "react-router-dom"
 
 const NavBarClone = () => {
+
+  const Navigate = useNavigate();
 
   return (
     <S.NavCloneaTip>
@@ -27,8 +30,9 @@ const NavBarClone = () => {
           <a target="_blank" href="https://www.autismotech.com/">Autismo Tech</a>
         </li>
       </ul>
-      <Button>
-        <a target="_blank" href="https://atip.io/selecao-perfil">Pré-cadastro</a>
+      <Button text="Pré-cadastro"
+        onClick={() => Navigate("https://atip.io/selecao-perfil")}>
+        
       </Button>
     </S.NavCloneaTip>
   )
