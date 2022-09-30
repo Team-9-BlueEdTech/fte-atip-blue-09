@@ -1,10 +1,17 @@
+import { ButtonHTMLAttributes } from "react";
+import { StyledButton } from "./StyledButton";
 
-const Button = () => { 
-  return (
-    <h1>
-      Hello, I'm Button
-    </h1>
-  )
+interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
+  text?: string;
+  variant?: "disabled" | "cancel";
 }
 
-export default Button
+const Button = ({ text, variant, ...props }: ButtonProps) => {
+  return (
+    <StyledButton {...props} variant={variant}>
+      {text}
+    </StyledButton>
+  );
+};
+
+export default Button;

@@ -1,10 +1,6 @@
-
-const Partner = () => { 
-  return (
-    <h1>
-      Hello, I'm Page Partner
-    </h1>
-  )
-}
-
-export default Partner
+export interface User {
+  name?: string;
+  email?: string;
+  password?: string;
+  confirmPassword?: string;
+};
