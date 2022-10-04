@@ -1,7 +1,7 @@
 import styled, { css } from "styled-components";
 
 interface StyledButtonProps {
-    variant?: "disabled" | "cancel";
+  variant?: "add" | "disabled" | "cancel";
   }
 
 export const StyledButton = styled.button<StyledButtonProps>`
@@ -21,14 +21,13 @@ export const StyledButton = styled.button<StyledButtonProps>`
       background-color: #5a19b4;
     }
 
-    ${variant === "disabled" &&
+    ${variant === "add" &&
     css`
-      background-color: #f1f1f1;
-      color: #a7a7a7;
-      cursor: default;
+      background-color: #66c88f;
+      color: white;
 
       :hover {
-        background-color: #f1f1f1;
+        background-color: #2faf65;
       }
     `}
 
@@ -39,6 +38,17 @@ export const StyledButton = styled.button<StyledButtonProps>`
 
       :hover {
         background-color: #B21A06;
+      }
+    `}
+
+    ${variant === "disabled" &&
+    css`
+      background-color: #f1f1f1;
+      color: #a7a7a7;
+      cursor: default;
+
+      :hover {
+        background-color: #f1f1f1;
       }
     `}
   `}
