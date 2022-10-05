@@ -1,33 +1,39 @@
 import Button from "../../components/Button";
-import Listing from "../../components/Listing";
+import Input from "../../components/Input";
+import Listing from "../../components/Listing/partner";
 import { MockedPartnerList } from "../../mocks/route-admin-partners";
 import { PartnerIndex } from "../../types";
-import { DivDashboard, MainDashboard, NavDashBoard } from "./styles";
+import * as S from "./styles";
 
 const Admin = () => {  
   return (
     <>
-      <MainDashboard>
-        <NavDashBoard>
+      <S.MainDashboard>
+        <S.NavDashboard>
           <Button
             variant="add"
             text="Cadastrar"
           />
-          <Button
-            text="Buscar"
+          <Input
+            inputSize="large"
           />
-        </NavDashBoard>
-        <DivDashboard>
-          {MockedPartnerList.map((partner: PartnerIndex) =>
-            <Listing
-              id={partner.id}
-              name={partner.name}
-              submit={partner.submit}
-              createdAt={partner.createdAt}
-            />
+          <Button
+            variant="small"
+            text="⬆⬇"
+          />
+        </S.NavDashboard>
+        <S.DivDashboard>
+          {MockedPartnerList.map(
+            (partner: PartnerIndex) =>
+              <Listing
+                id={partner.id}
+                name={partner.name}
+                submit={partner.submit}
+                createdAt={partner.createdAt}
+              />
           )}
-        </DivDashboard>
-      </MainDashboard>
+        </S.DivDashboard>
+      </S.MainDashboard>
     </>
   )
 }

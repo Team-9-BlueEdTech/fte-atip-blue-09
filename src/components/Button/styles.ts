@@ -1,12 +1,15 @@
 import styled, { css } from "styled-components";
 
 interface StyledButtonProps {
-  variant?: "add" | "disabled" | "cancel";
-  }
+  variant?: "add" | "disabled" | "cancel" | "small";
+}
 
 export const StyledButton = styled.button<StyledButtonProps>`
+
   ${({ variant }) => css`
+  
     width: 11.5rem;
+    min-width: 11.5rem;
     height: 3rem;
     border-radius: 4rem;
 
@@ -50,6 +53,12 @@ export const StyledButton = styled.button<StyledButtonProps>`
       :hover {
         background-color: #f1f1f1;
       }
+    `}
+
+    ${variant === "small" &&
+    css`
+      width: 3rem;
+      min-width: 3rem;
     `}
   `}
 `;

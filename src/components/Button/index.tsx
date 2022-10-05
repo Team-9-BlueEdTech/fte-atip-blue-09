@@ -1,9 +1,9 @@
 import { ButtonHTMLAttributes, ReactNode } from "react";
-import { StyledButton } from "./StyledButton";
+import { StyledButton } from "./styles";
 
 interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
   text?: string | ReactNode;
-  variant?: "add" | "disabled" | "cancel";
+  variant?: "add" | "disabled" | "cancel" | "small";
 }
 
 const Button = ({ text, variant, ...props }: ButtonProps) => {

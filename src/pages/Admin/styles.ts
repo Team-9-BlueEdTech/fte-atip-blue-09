@@ -12,14 +12,12 @@ export const MainDashboard = styled.main`
 
 `
 
-export const NavDashBoard = styled.section`
+export const NavDashboard = styled.section`
 
   height: 3rem;
   margin: 7px 0px;
   display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-
+  gap: 1rem;
 
 `
 
