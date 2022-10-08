@@ -49,7 +49,12 @@ export const SectionEmpresasHeader = styled.section`
     margin-bottom: 1.5rem;
   }
 
-  button {
-    
+  img {
+    max-width: 80%;
+    align-self: center;
+  }
+
+  @media (max-width: 1120px) {
+    flex-direction: column;
   }
 `

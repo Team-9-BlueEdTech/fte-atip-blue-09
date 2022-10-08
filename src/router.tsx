@@ -5,6 +5,7 @@ import Login from './pages/Login';
 import Partner from './pages/Partner';
 import Home from './pages/Home';
 import { useState } from "react";
+import NewPartner from "./pages/Admin/NewPartner";
 // import { useAuth } from './contexts/auth';
 
 const Router = () => {
@@ -19,7 +20,8 @@ const Router = () => {
           <Route path="/" element={<Home />}></Route>
           <Route path="/login" element={<Login />}></Route>
           <Route path="/collab" element={<Collab />}></Route>
-          <Route path="/partner" element={<Partner />}></Route>
+          <Route path="/partner/new" element={<NewPartner />} />
+          <Route path="/partner/:id" element={<Partner />}></Route>
           <Route path="/admin" element={<Admin />}></Route>
         </>
       ) : (
