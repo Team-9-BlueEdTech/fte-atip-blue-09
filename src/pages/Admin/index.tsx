@@ -15,9 +15,6 @@ const Admin = () => {
   const [search, setSearch] = useState<string>("");
   const [showFilter, setShowFilter] = useState<boolean>(false);
 
-  console.log(partnersList);
-  
-
   const loadPartners = () => {
     //api.get
     setPartnersList(MockedPartnerList)
@@ -74,15 +71,17 @@ const Admin = () => {
           />
         </S.NavDashboard>
         <S.DivDashboard>
-          {partnersList?.filter(searchPartner).map((partner, index) =>
-            <Listing
-              key={index}
-              id={partner.id}
-              name={partner.name}
-              submit={partner.submit}
-              createdAt={partner.createdAt}
-            />
-          )}
+          {
+            partnersList?.filter(searchPartner).map((partner, index) =>
+              <Listing
+                key={index}
+                id={partner.id}
+                name={partner.name}
+                submit={partner.submit}
+                createdAt={partner.createdAt}
+              />
+            )
+          }
           {
             showFilter ?
               <S.FilterDashboard>

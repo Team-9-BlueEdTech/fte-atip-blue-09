@@ -30,6 +30,9 @@ export const DivDashboard = styled.div`
   
   position: relative;
 
+  overflow: auto;
+  overflow-x: hidden;
+
 `
 
 export const FilterDashboard = styled.div`
