@@ -1,10 +1,16 @@
 import { BrowserRouter } from "react-router-dom"
+import { CensusProvider } from "./contexts/census"
+import { PartnerProvider } from "./contexts/partner"
 import Router from "./router"
 
 const App = () => { 
   return (
     <BrowserRouter>
-      <Router />
+      <PartnerProvider>
+        <CensusProvider>
+          <Router />
+        </CensusProvider>
+      </PartnerProvider>
     </BrowserRouter>
   )
 }
