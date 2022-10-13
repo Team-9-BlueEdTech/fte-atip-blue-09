@@ -1,10 +1,10 @@
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import Button from "../../components/Button";
+import Input from "../../components/Input";
 import Listing from "../../components/Listing/partner";
 import { MockedPartnerList } from "../../mocks/route-admin-partners";
 import { PartnerIndex } from "../../types";
-import { Div } from "../Login/styles";
 import * as S from "./styles";
 
 const Admin = () => {
@@ -51,6 +51,14 @@ const Admin = () => {
       })
     }
 
+    if (filter === "Old") {
+      sortedList = partnersList;
+    }
+
+    if (filter === "New") {
+      sortedList = partnersList;
+    }
+
     setPartnersList(sortedList)
     setShowFilter(false)
   }
@@ -62,7 +70,8 @@ const Admin = () => {
           <Button variant="add" text="Cadastrar"
             onClick={() => navigate("/partner/new")}  
           />
-          <input type="text"
+          <Input type="text"
+            inputSize="large"
             placeholder="🔎  Digite o nome de uma empresa"
             onChange={(e) => setSearch(e.target.value)}
           />
@@ -91,12 +100,12 @@ const Admin = () => {
                 <Button variant="small" text="Z ⬇"
                   onClick={() => setFilter("Z")}
                 />
-                {/* <Button variant="small" text="⌛ ⬇"
+                <Button variant="small" text="⌛ ⬇"
                   onClick={() => setFilter("New")}
                 />
                 <Button variant="small" text="⌛ ⬆"
                   onClick={() => setFilter("Old")}
-                /> */}
+                />
               </S.FilterDashboard>
             : null
           }
