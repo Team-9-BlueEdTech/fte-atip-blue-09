@@ -5,9 +5,9 @@ interface InputProps extends InputHTMLAttributes<HTMLInputElement> {
   inputSize?: "large";
 }
 
-const Input = ({ inputSize }: InputProps) => {
+const Input = ({ inputSize, ...props }: InputProps) => {
   return (
-    <S.Input inputSize={inputSize} />
+    <S.Input {...props} inputSize={inputSize} />
   )
 }
 

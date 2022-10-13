@@ -3,12 +3,11 @@ import styled from 'styled-components'
 export const MainDashboard = styled.main`
 
   width: 100vw;
-  height: calc(100vh - 3rem);
+  height: 100vh;
   display: flex;
   flex-direction: column;
   padding: 1rem;
-  padding-top: 0rem;
-  margin-top: 3rem;
+  padding-top: 4rem;
 
 `
 
