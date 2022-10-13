@@ -19,16 +19,14 @@ export interface Partner {
   password: string;
   logo: string;
   submit: boolean;
-  census?: Census[];
-  persons?: Person[];
+  census: CensusIndex[];
+  persons: string[];
   createdAt: string;
 }
 
-export interface Census {
+export interface CensusIndex {
   id: string;
-  partnerId: string;
-  launchDate: string;
-  
+  createdAt: string;  
 }
 
 export interface Person {
