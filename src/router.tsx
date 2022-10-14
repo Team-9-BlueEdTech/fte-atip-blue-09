@@ -5,13 +5,11 @@ import Login from './pages/Login';
 import Partner from './pages/Partner';
 import Home from './pages/Home';
 import { useState } from "react";
-// import { useAuth } from './contexts/auth';
+import { useAuth } from './contexts/auth';
 
 const Router = () => {
-
-  // const { logged } = useAuth();
-  const [logged, setLogged] = useState(true);  
-
+  //const { logged } = useAuth();
+  const [logged, setLogged] = useState(true);
   return (
     <Routes>
       {logged ? (

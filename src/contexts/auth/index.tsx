@@ -33,10 +33,11 @@ export const AuthProvider = ({ children }: AuthProviderProps) => {
   const [logged, setLogged] = useState<boolean>(false);
 
   const login = ({ token, user }: LoginParams) => {
+    console.log(token, user)
     localStorage.setItem("token", token);
     localStorage.setItem("user", JSON.stringify(user));
     setLogged(true);
-    navigate("/dashboard");
+    navigate("/");
     swal("Login bem sucedido!");
     console.log(token, user)
   };
