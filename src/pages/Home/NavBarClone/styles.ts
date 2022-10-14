@@ -57,5 +57,12 @@ export const NavCloneaTip = styled.nav`
     color: #5a19b4;
   }
 
+  button a {
+    color: white;
+  }
+
+  button a:hover {
+    color: white;
+  }
   
 `
