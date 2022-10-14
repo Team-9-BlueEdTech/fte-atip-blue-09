@@ -1,5 +1,6 @@
 import * as Styled from "./styles";
 import logo from "../../assets/images/image.png";
+import Button from "../../components/Button/index";
 import { HiOutlineMail } from "react-icons/hi";
 import { RiLockPasswordLine } from "react-icons/ri";
 import { yupResolver } from "@hookform/resolvers/yup";
@@ -8,6 +9,7 @@ import api from "../../services/api";
 import * as yup from "yup";
 import { useForm } from "react-hook-form";
 import { useNavigate } from "react-router-dom";
+import axios from "axios";
 
 interface LoginData {
   email: string;
@@ -42,6 +44,7 @@ const Login = () => {
     api
       .post(`/auth/login`, data)
       .then((res) => {
+        console.log(res)
         login({ token: res.data.token, user: res.data.user });
       })
       .catch(() => {
@@ -71,7 +74,8 @@ const Login = () => {
             <Styled.ErrorMessage>
               {errors.email?.message || errors.password?.message}
             </Styled.ErrorMessage>
-            <Styled.Button type="submit">Entrar</Styled.Button>
+            {/*<Styled.Button type="submit">Entrar</Styled.Button>*/}
+            <Button text="Entrar" variant="login-size" type="submit"/>
           </Styled.ContainerModalForm>
           <h2>Sua empresa ainda não possui cadastro?</h2>
         </Styled.ContainerModal>

@@ -12,6 +12,7 @@ export const Container = styled.div`
   display: flex;
   align-items: center;
   height: 100vh;
+  //background-color: whitesmoke;
   //background-color: #AA6CFF;
   //background-color: #a96cff5b;
   //background-color: #a96cff10;
@@ -26,6 +27,7 @@ export const ContainerModal = styled.div`
   margin: 0 auto;
   padding: 20px;
   background-color: white;
+  border: 1px solid black;
   border-radius: 8px;
   div {
     background-color: #dcdcdc;
@@ -41,7 +43,6 @@ export const ContainerModal = styled.div`
   }
 `;
 export const ContainerModalForm = styled.form`
-  //margin: 100px 0 70px 0;
   margin: 80px 0;
 `;
 export const Span = styled.span`
@@ -63,7 +64,7 @@ export const Span = styled.span`
   }
 `;
 
-export const Button = styled.button`
+/*export const Button = styled.button`
   padding: 10px;
   height: 40px;
   width: 100%;
@@ -73,6 +74,7 @@ export const Button = styled.button`
   box-shadow: 0.5px 0.5px;
   cursor: pointer;
 `;
+*/
 
 
 export const ErrorMessage = styled.p`
@@ -80,7 +82,6 @@ export const ErrorMessage = styled.p`
     align-self: center;
     font-size: small;
     height: 1rem;
-    margin: -5px 0 40px 0;
+    margin: -10px 0 25px 0;
     max-width: 330px;
-    //border: 1px solid black;
 `;

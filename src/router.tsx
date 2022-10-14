@@ -7,9 +7,10 @@ import PartnerPage from "./pages/Partner";
 import { useState } from "react";
 import NewPartner from "./pages/Admin/NewPartner";
 import CensusPage from "./pages/Partner/Census";
-import { useAuth } from './contexts/auth';
+// import { useAuth } from './contexts/auth';
 
 const Router = () => {
+  
   //const { logged } = useAuth();
   const [logged, setLogged] = useState(true);
   return (
