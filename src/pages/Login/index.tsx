@@ -2,9 +2,13 @@ import * as Styled from "./styles";
 import logo from "../../assets/images/image.png";
 import { HiOutlineMail } from "react-icons/hi";
 import { RiLockPasswordLine } from "react-icons/ri";
+import Header from "../../components/Header";
 
 const Login = () => {
+   
+
   return (
+    <Header>
     <Styled.Main>
       <Styled.Container>
         <Styled.Div>
@@ -31,6 +35,7 @@ const Login = () => {
         </Styled.Div>
       </Styled.Container>
     </Styled.Main>
+    </Header>
   );
 };
 
