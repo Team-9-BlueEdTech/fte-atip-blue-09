@@ -29,6 +29,17 @@ export interface CensusIndex {
   createdAt: string;  
 }
 
+export interface Census {
+  id: string;
+  partnerId: string;
+  launchDate: string;
+  questions: [{}];
+  hierarchyLevel: [];
+  area: [];
+  actingTime: [];
+  answersId: string;
+}
+
 export interface Person {
   partnerId: string;
   email: string;
