@@ -3,7 +3,7 @@ import { StyledButton } from "./styles";
 
 interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
   text?: string | ReactNode;
-  variant?: "add" | "disabled" | "cancel" | "small";
+  variant?: "add" | "disabled" | "cancel" | "small" | "login-size";
 }
 
 const Button = ({ text, variant, ...props }: ButtonProps) => {

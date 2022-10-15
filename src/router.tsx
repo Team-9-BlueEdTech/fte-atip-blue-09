@@ -10,10 +10,9 @@ import CensusPage from "./pages/Partner/Census";
 // import { useAuth } from './contexts/auth';
 
 const Router = () => {
-
-  // const { logged } = useAuth();
-  const [logged, setLogged] = useState(true);  
-
+  
+  //const { logged } = useAuth();
+  const [logged, setLogged] = useState(true);
   return (
     <Routes>
       {
