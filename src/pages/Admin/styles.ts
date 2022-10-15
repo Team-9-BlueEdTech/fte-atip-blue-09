@@ -7,7 +7,7 @@ export const MainDashboard = styled.main`
   display: flex;
   flex-direction: column;
   padding: 1rem;
-  padding-top: 4rem;
+  padding-top: 4rem; //for navbar
 
 `
 

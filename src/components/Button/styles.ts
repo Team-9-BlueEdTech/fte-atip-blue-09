@@ -1,13 +1,11 @@
 import styled, { css } from "styled-components";
 
 interface StyledButtonProps {
-  variant?: "add" | "disabled" | "cancel" | "small";
+  variant?: "add" | "disabled" | "cancel" | "small" | "login-size";
 }
 
 export const StyledButton = styled.button<StyledButtonProps>`
-
   ${({ variant }) => css`
-  
     width: 11.5rem;
     min-width: 11.5rem;
     height: 3rem;
@@ -40,7 +38,7 @@ export const StyledButton = styled.button<StyledButtonProps>`
       color: white;
 
       :hover {
-        background-color: #B21A06;
+        background-color: #b21a06;
       }
     `}
 
@@ -59,6 +57,12 @@ export const StyledButton = styled.button<StyledButtonProps>`
     css`
       width: 3rem;
       min-width: 3rem;
+    `}
+    ${variant === "login-size" &&
+    css`
+      height: 40px;
+      width: 100%;
+      border-radius: 8px;
     `}
   `}
 `;

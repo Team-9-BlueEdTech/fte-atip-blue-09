@@ -17,15 +17,17 @@ export const SideBar = styled.nav`
   width: 11.5rem;
   height: 100%;
   display: grid;
-  grid-template-rows: 1fr 5fr 2fr;
+  grid-template-rows: 1fr 5fr 1.5fr;
 
 `
 
 export const SideBarMiddle = styled.div`
 
   display: flex;
+  flex-direction: column;
   text-align: center;
-  align-items: center;
+  justify-content: center;
+  gap: 2rem;
 
 `
 
@@ -74,7 +76,7 @@ export const CensusCard = styled.div`
 
   background-color: #DCDCDC;
   border-radius: 1rem;
-  box-shadow: 0px 2px 5px;
+  box-shadow: 0px 1px 3px;
 
   cursor: pointer;
 

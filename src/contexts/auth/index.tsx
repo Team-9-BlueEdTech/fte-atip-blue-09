@@ -36,9 +36,8 @@ export const AuthProvider = ({ children }: AuthProviderProps) => {
     localStorage.setItem("token", token);
     localStorage.setItem("user", JSON.stringify(user));
     setLogged(true);
-    navigate("/dashboard");
+    navigate("/");
     swal("Login bem sucedido!");
-    console.log(token, user)
   };
 
   const logout = () => {
@@ -73,7 +72,7 @@ export const AuthProvider = ({ children }: AuthProviderProps) => {
     const token = localStorage.getItem("token");
 
     if (token) checkTokenExpiration();
-  }, );
+  }, []);
 
   return (
     <AuthContext.Provider value={{ logged, login, logout }}>
