@@ -43,9 +43,10 @@ const CensusPage = () => {
           }
         </div>
         <S.SideBarMiddle>
-          <Button />
-          <Button />
-          <Button />
+          <Button text="E-mails"
+          />
+          <Button text="Perguntas" />
+          <Button text="Dashboard" />
         </S.SideBarMiddle>
         <S.SideBarCard>
           <img src={partner?.logo} alt=""/>
