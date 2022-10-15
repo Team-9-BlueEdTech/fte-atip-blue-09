@@ -7,14 +7,14 @@ export const MainDashboard = styled.main`
   display: flex;
   flex-direction: column;
   padding: 1rem;
-  padding-top: 4rem; //for navbar
+  padding-top: 6rem; //for navbar
+  gap: 1rem;
 
 `
 
 export const NavDashboard = styled.section`
 
   height: 3rem;
-  margin: 7px 0px;
   display: flex;
   gap: 1rem;
 

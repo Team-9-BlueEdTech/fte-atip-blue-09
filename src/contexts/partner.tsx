@@ -1,4 +1,4 @@
-import { createContext, ReactNode, useContext, useEffect, useState } from "react";
+import { createContext, Dispatch, ReactNode, SetStateAction, useContext, useState } from "react";
 import { Partner } from "../types";
 import { MockedPartner } from "../mocks/route-partner-id";
 
@@ -8,6 +8,7 @@ interface PartnerProviderProps {
 
 interface PartnerProviderData {
   partner: Partner | undefined;
+  setPartner: Dispatch<SetStateAction<Partner | undefined>>
   getPartnerById: (partnerId: string) => void;
 };
 
@@ -23,7 +24,7 @@ export const PartnerProvider = ({ children }: PartnerProviderProps) => {
   };
 
   return (
-    <PartnerContext.Provider value={{ partner, getPartnerById }}>
+    <PartnerContext.Provider value={{ partner, setPartner, getPartnerById }}>
       { children }
     </PartnerContext.Provider>
   );
