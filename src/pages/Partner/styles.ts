@@ -7,7 +7,7 @@ export const MainStructure = styled.main`
   display: flex;
   flex-direction: row;
   padding: 1rem;
-  padding-top: 4rem; //for navbar
+  padding-top: 6rem; //for navbar
   gap: 1rem;
 
 `

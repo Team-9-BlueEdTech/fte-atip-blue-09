@@ -1,39 +1,28 @@
 import styled from 'styled-components'
 
-export const HeaderaTip = styled.nav`
+export const Header = styled.nav`
 
+  width: 100%;
+  height: 5rem;
   display: flex;
   align-items: center;
-  justify-content: space-evenly;
-  width: 100%;
-  height: 100px;
+  justify-content: space-around;
+  padding: 1rem;
+  gap: 3rem;
+
   box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, .1);
   position: fixed;
-  background: lightgray;
   z-index: 9999;
 
   img {
-    height: 40%;
+    height: 100%;
   }
 
   div {
+    width: 100%;
     list-style: none;
     display: flex;
     gap: 1rem;
   }
-
-  a {
-    text-decoration: none;
-    color: #545961;
-  }
-
-  a:hover {
-    color: #5a19b4;
-  }
-
-  .active {
-    color: #5a19b4;
-  }
-
   
 `

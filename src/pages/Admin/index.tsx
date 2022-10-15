@@ -1,8 +1,10 @@
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import Button from "../../components/Button";
+import Header from "../../components/Header";
 import Input from "../../components/Input";
 import Listing from "../../components/Listing/partner";
+import { usePartner } from "../../contexts/partner";
 import { MockedPartnerList } from "../../mocks/route-admin-partners";
 import { PartnerIndex } from "../../types";
 import * as S from "./styles";
@@ -10,6 +12,8 @@ import * as S from "./styles";
 const Admin = () => {
 
   const navigate = useNavigate();
+
+  const { setPartner } = usePartner();
 
   const [partnersList, setPartnersList] = useState<PartnerIndex[] | undefined>(undefined);
   const [search, setSearch] = useState<string>("");
@@ -21,6 +25,7 @@ const Admin = () => {
   }
 
   useEffect(() => {
+    setPartner(undefined)
     loadPartners()
   }, [])
 
@@ -65,6 +70,7 @@ const Admin = () => {
 
   return (
     <>
+      <Header />
       <S.MainDashboard>
         <S.NavDashboard>
           <Button variant="add" text="Cadastrar"
