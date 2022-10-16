@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 import Button from "../../components/Button";
 import Header from "../../components/Header";
 import Input from "../../components/Input";
-import Listing from "../../components/Listing/partner";
+import PartnerList from "../../components/CardPartner/partner";
 import { usePartner } from "../../contexts/partner";
 import { MockedPartnerList } from "../../mocks/route-admin-partners";
 import { PartnerIndex } from "../../types";
@@ -88,7 +88,7 @@ const Admin = () => {
         <S.DivDashboard>
           {
             partnersList?.filter(searchPartner).map((partner, index) =>
-              <Listing
+              <PartnerList
                 key={index}
                 id={partner.id}
                 name={partner.name}

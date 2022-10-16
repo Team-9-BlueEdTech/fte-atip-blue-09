@@ -2,23 +2,39 @@ import { useEffect, useState } from "react";
 import { useParams, useNavigate } from "react-router-dom"
 import Button from "../../components/Button";
 import Header from "../../components/Header";
+import { useCensus } from "../../contexts/census";
 import { usePartner } from "../../contexts/partner";
+import CensusPage from "../../components/Census/Census";
 import * as S from "./styles";
+import EmailListing from "../../components/ListingEmail";
+import QuestionsList from "../../components/ListingQuestions";
 
 const PartnerPage = () => {
 
   const navigate = useNavigate();
 
-  const { partnerId } = useParams();
+  const { partnerId, censusId } = useParams();
   const { partner, getPartnerById } = usePartner();
+  const { census, getCensusById } = useCensus();
 
-  const [admin, setAdmin] = useState<boolean>(true)
-  const [spinner, setSpinner] = useState<boolean>(false)
+  const [admin, setAdmin] = useState<boolean>(true);
+  const [page, setPage] = useState<string>("Email");
 
   useEffect(() => {
     if (partnerId)
     getPartnerById(partnerId);
+    if (censusId) {
+      console.log("getCensus")
+      getCensusById(censusId);
+    }
   }, []);
+
+  useEffect(() => {
+    if (census) {
+      console.log("getPartner")    
+      getPartnerById(census?.partnerId);
+    }
+  }, [census]);
 
   return (
     <>
@@ -35,46 +51,48 @@ const PartnerPage = () => {
             }
           </div>
           <S.SideBarMiddle>
-            <h1>Escolha ou Adicione um Censo ➡</h1>
+            {
+              censusId ?
+                <>
+                  <Button text="E-mails"
+                    onClick={() => setPage("Email")}
+                  />
+                  <Button text="Perguntas"
+                    onClick={() => setPage("Perguntas")}
+                  />
+                  {
+                    admin ? 
+                      <Button text="Dashboard"
+                        onClick={() => setPage("Dashboard")}
+                      />
+                    :
+                      <Button text="Adesão"
+                      onClick={() => setPage("Adesão")}
+                      />
+                  }  
+                </>
+              :
+                <h1>Escolha ou Adicione um Censo ➡</h1>
+            }
           </S.SideBarMiddle>
           <S.SideBarCard>
             <img src={partner?.logo} alt=""/>
           </S.SideBarCard>
         </S.SideBar>
-        <S.Dashboard>
-          {
-            partner?.census.map
-            ((census, index) => 
-              <S.CensusCard
-              key={index}
-                onClick={() => navigate(`/census/${census.id}`)}
-              >
-                <h2>{census.createdAt}</h2>
-              </S.CensusCard>
-            )
-          }
-          <S.CensusCard
-            onClick={() => {
-              //DEVELOP api trigger /census/new
-              setSpinner(true)
-              
-              //DEVELOP api get partner then:              
-              setTimeout(() => {
-                setSpinner(false)
-              }, 3000)
-            }}
-          >
-            {
-              spinner ?
-                <h2>Criando...</h2>
-              :
-                <h1>+</h1>
-            }
-          </S.CensusCard>
-        </S.Dashboard>
+        {
+          partnerId && <CensusPage />
+        }
+        {
+          censusId && (
+            page === "Email" ? <EmailListing /> :
+            page === "Perguntas" ? <QuestionsList /> :
+            page === "Dashboard" ? <h1>Dashboard</h1> :
+            page === "Adesão" ? <h1>Adesão</h1> :
+            <CensusPage />
+          )
+        }
       </S.MainStructure>
-    </>
-    
+    </>    
   )
 }
 
