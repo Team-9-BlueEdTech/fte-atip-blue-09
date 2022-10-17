@@ -6,6 +6,7 @@ import Home from './pages/Home';
 import PartnerPage from "./pages/Partner";
 import NewPartner from "./pages/Admin/NewPartner";
 import { useAuth } from './contexts/auth';
+import ChangePassPage from "./components/ChangePassword";
 
 const Router = () => {
   
@@ -29,6 +30,7 @@ const Router = () => {
           <>
             <Route path="/" element={<Home />} />
             <Route path="/login" element={<Login />} />
+            <Route path="/partner/firstlogin" element={<ChangePassPage />} />
           </>
         )
       }     
