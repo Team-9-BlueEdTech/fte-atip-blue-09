@@ -36,7 +36,7 @@ export const AuthProvider = ({ children }: AuthProviderProps) => {
     localStorage.setItem("token", token);
     localStorage.setItem("user", JSON.stringify(user));
     setLogged(true);
-    navigate("/");
+    navigate("/admin");
     swal("Login bem sucedido!");
   };
 
@@ -57,10 +57,10 @@ export const AuthProvider = ({ children }: AuthProviderProps) => {
     };
 
     api
-      .get(`/usuarios/${user.id}`, headers)
+      .get(`/admin/${user.id}`, headers)
       .then(() => {
         setLogged(true);
-        navigate("/");
+        navigate("/admin");
       })
       .catch(() => {
         logout();
