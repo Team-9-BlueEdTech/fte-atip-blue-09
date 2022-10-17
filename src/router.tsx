@@ -4,15 +4,13 @@ import Collab from './pages/Collab';
 import Login from './pages/Login';
 import Home from './pages/Home';
 import PartnerPage from "./pages/Partner";
-import { useState } from "react";
 import NewPartner from "./pages/Admin/NewPartner";
-import CensusPage from "./components/Census/Census";
-// import { useAuth } from './contexts/auth';
+import { useAuth } from './contexts/auth';
 
 const Router = () => {
   
-  //const { logged } = useAuth();
-  const [logged, setLogged] = useState(true);
+  const { logged } = useAuth();
+
   return (
     <Routes>
       {
@@ -28,7 +26,10 @@ const Router = () => {
             
           </>
         ) : (
-          <Route path="/" element={<Login />} />
+          <>
+            <Route path="/" element={<Home />} />
+            <Route path="/login" element={<Login />} />
+          </>
         )
       }     
       <Route

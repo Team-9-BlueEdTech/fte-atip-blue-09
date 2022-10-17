@@ -8,8 +8,6 @@ import { useAuth } from "../../contexts/auth";
 import api from "../../services/api";
 import * as yup from "yup";
 import { useForm } from "react-hook-form";
-import { useNavigate } from "react-router-dom";
-import axios from "axios";
 
 interface LoginData {
   email: string;
@@ -32,7 +30,6 @@ const loginSchema = yup.object().shape({
 });
 
 const Login = () => {
-  const navigate = useNavigate();
   const { login } = useAuth();
   const {
     register,
@@ -42,10 +39,9 @@ const Login = () => {
 
   const handleLogin = (data: LoginData) => {
     api
-      .post(`/auth/login`, data)
+      .post(`/auth`, data)
       .then((res) => {
-        console.log(res)
-        login({ token: res.data.token, user: res.data.user });
+        login({ token: res.data.token, user: res.data.admin });
       })
       .catch(() => {
         console.log("Usuário ou senha inválidos");

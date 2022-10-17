@@ -1,14 +1,13 @@
 import * as S from "./styles"
 import logo from "../../assets/images/image.png"
 import Button from "../../components/Button"
-import { useNavigate } from "react-router-dom"
 import { usePartner } from "../../contexts/partner"
+import { useAuth } from "../../contexts/auth"
 
 const Header = () => {
 
-  const navigate = useNavigate();
-
   const { partner } = usePartner();
+  const { logout } = useAuth();
 
   return (
     <S.Header>
@@ -21,7 +20,7 @@ const Header = () => {
           }
         </h2>
       </div>
-      <Button text="Sair" variant="cancel" onClick={() => navigate("/")} />
+      <Button text="Sair" variant="cancel" onClick={() => logout()} />
     </S.Header>
   )
 }
