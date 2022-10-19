@@ -33,10 +33,10 @@ export interface Census {
   id: string;
   partnerId: string;
   launchDate: string;
-  questionsLabels: Array<String | String[] | undefined>;
-  questions: Array<String | String[] | undefined>;
-  questionsObs: Array<String | String[] | undefined>;
-  options: Array<String | String[] | undefined>;
+  questionsLabels: Array<string | string[] | undefined>;
+  questions: Array<string | string[] | undefined>;
+  questionsObs: Array<string | string[] | undefined>;
+  options: Array<string | string[] | undefined>;
   collaborated: [];
 }
 
@@ -50,6 +50,6 @@ export interface Person {
 export interface Answers {
   id: string;
   censusId: string;
-  list: Array<String | String[] | undefined>;
+  list: Array<string | string[] | undefined>;
 }
 
