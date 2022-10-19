@@ -8,6 +8,7 @@ import CensusPage from "../../components/Census/Census";
 import * as S from "./styles";
 import EmailListing from "../../components/ListingEmail";
 import QuestionsList from "../../components/ListingQuestions";
+import CensusDashboard from "../../components/CensusDashboard";
 
 const PartnerPage = () => {
 
@@ -86,7 +87,7 @@ const PartnerPage = () => {
           censusId && (
             page === "Email" ? <EmailListing /> :
             page === "Perguntas" ? <QuestionsList /> :
-            page === "Dashboard" ? <h1>Dashboard</h1> :
+            page === "Dashboard" ? <CensusDashboard /> :
             page === "Adesão" ? <h1>Adesão</h1> :
             <CensusPage />
           )

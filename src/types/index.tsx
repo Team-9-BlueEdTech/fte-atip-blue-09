@@ -49,3 +49,20 @@ export interface Person {
 export interface EmailIndex {
   email: string;
 }
+
+export interface Answers {
+  id: string;
+  censusId: string;
+  list: [
+    string?,
+    string?,
+    string[]?,
+    string?,
+    string?,
+    string?,
+    string?,
+    string?,
+    string?
+  ];
+}
+
