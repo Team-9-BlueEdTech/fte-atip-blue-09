@@ -33,36 +33,23 @@ export interface Census {
   id: string;
   partnerId: string;
   launchDate: string;
-  questions: [{}];
-  hierarchyLevel: [];
-  area: [];
-  actingTime: [];
-  answersId: string;
+  questionsLabels: Array<String | String[] | undefined>;
+  questions: Array<String | String[] | undefined>;
+  questionsObs: Array<String | String[] | undefined>;
+  options: Array<String | String[] | undefined>;
+  collaborated: [];
 }
 
 export interface Person {
+  id: string;
   partnerId: string;
   email: string;
-  collaborated: boolean;
-}
-
-export interface EmailIndex {
-  email: string;
+  lgpdConfirm: boolean;
 }
 
 export interface Answers {
   id: string;
   censusId: string;
-  list: [
-    string?,
-    string?,
-    string[]?,
-    string?,
-    string?,
-    string?,
-    string?,
-    string?,
-    string?
-  ];
+  list: Array<String | String[] | undefined>;
 }
 
