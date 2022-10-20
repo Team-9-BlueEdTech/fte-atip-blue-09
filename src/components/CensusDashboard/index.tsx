@@ -1,47 +1,34 @@
-import { ResponsivePie } from "@nivo/pie"
+import { useEffect } from "react";
+import { useParams } from "react-router-dom";
+import { useCensus } from "../../contexts/census"
+import PieChartCard from "../PieChartCard";
 import * as S from './styles'
 
 const CensusDashboard = () => {
 
-  const data = [
-    {
-      "id": "lisp",
-      "label": "lisp",
-      "value": 572,
-      "color": "hsl(29, 70%, 50%)"
-    },
-    {
-      "id": "javascript",
-      "label": "javascript",
-      "value": 516,
-      "color": "hsl(71, 70%, 50%)"
-    },
-    {
-      "id": "elixir",
-      "label": "elixir",
-      "value": 356,
-      "color": "hsl(335, 70%, 50%)"
-    },
-    {
-      "id": "sass",
-      "label": "sass",
-      "value": 114,
-      "color": "hsl(93, 70%, 50%)"
-    },
-    {
-      "id": "css",
-      "label": "css",
-      "value": 411,
-      "color": "hsl(114, 70%, 50%)"
-    }
-  ]
+  const { censusId } = useParams();
+  const { census, getCensusById } = useCensus();
+
+  const mainCharts: string[] = [ // this array can be added to the DB
+    "Raça", "Identidade de Gênero",
+    "Trans/Cisgênero", "Orientação Sexual",
+  ]; // a new string matching a questionsLabels just adds a new main chart :)
+
+  useEffect(() => {
+    if (censusId)
+      getCensusById(censusId)
+  }, [])  
 
  return (
     <S.DivDashboard>
-      <ResponsivePie
-        data={data}
-        
-      />
+      {
+        mainCharts.map((chartName, index) => {
+          return <PieChartCard
+            key={index}
+            title={chartName}
+          />
+        })
+      }
     </S.DivDashboard>
   )
 }

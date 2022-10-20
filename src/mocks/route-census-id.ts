@@ -14,7 +14,7 @@ export const MockedCensus: Census =
     "Orientação Sexual",
     "Função",
     "Tempo",
-    "Área"
+    "Localização"
   ],
   questions: [
     "A minha idade é",

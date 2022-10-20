@@ -6,11 +6,13 @@ export const DivDashboard = styled.div`
   height: 100%;
   background-color: #F3F3F3;
   border-radius: 2rem;
-  padding: 2rem;
-  
-  position: relative;
+  padding: 1rem;
 
   overflow: auto;
   overflow-x: hidden;
+
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
 
 `
