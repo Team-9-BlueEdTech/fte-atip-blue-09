@@ -26,7 +26,7 @@ export interface Partner {
 
 export interface CensusIndex {
   id: string;
-  createdAt: string;  
+  createdAt: string;
 }
 
 export interface Census {
@@ -48,4 +48,9 @@ export interface Person {
 
 export interface EmailIndex {
   email: string;
+}
+
+export interface FirstLogin {
+  password: string;
+  confirmPassword?: string;
 }
