@@ -19,20 +19,18 @@ const PartnerPage = () => {
   const { census, getCensusById } = useCensus();
 
   const [admin, setAdmin] = useState<boolean>(true);
-  const [page, setPage] = useState<string>("Email");
+  const [page, setPage] = useState<string>("Dashboard");
 
   useEffect(() => {
     if (partnerId)
-    getPartnerById(partnerId);
+      getPartnerById(partnerId);
     if (censusId) {
-      console.log("getCensus")
       getCensusById(censusId);
     }
   }, []);
 
   useEffect(() => {
     if (census) {
-      console.log("getPartner")    
       getPartnerById(census?.partnerId);
     }
   }, [census]);
