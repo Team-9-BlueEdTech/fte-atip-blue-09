@@ -11,16 +11,16 @@ export const MainDiv = styled.main`
   justify-content: center;
   align-items: center;
 
+
 `
 export const DivInput = styled.div`
 
 width: 100%;
-height: 40vh;
+height: 27vh;
 align-items: center;
 display: flex;
 flex-direction: column;
-margin: 20px;
-border-radius: 1rem;
+margin: 20px 0 0 0 ;
 
 input {
   margin: 20px;
