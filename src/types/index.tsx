@@ -50,7 +50,8 @@ export interface EmailIndex {
   email: string;
 }
 
-export interface FirstLogin {
+export interface ChangePassword {
   password: string;
   confirmPassword?: string;
 }
+
