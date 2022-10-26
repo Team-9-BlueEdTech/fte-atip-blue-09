@@ -9,13 +9,19 @@ const ChartCard = ({ title, data, options }) => {
       <h3>{ title }</h3>
       <S.CardChart>
         {
-          <S.ChartBar
-            value={10}
-            size={10}
-            color={"#00B6CB"}
-          >
-            <h4>Label</h4>
-          </S.ChartBar>
+          options.map((option: string, index: number) =>
+              <S.ChartBar
+                size={10}
+              >
+                <S.ChartValue
+                  key={index}
+                  value={74}
+                  color={"#00B6CB"}
+                />
+                <h5>{option}</h5>
+                
+              </S.ChartBar>
+            )
         }
       </S.CardChart>
     </S.Card>

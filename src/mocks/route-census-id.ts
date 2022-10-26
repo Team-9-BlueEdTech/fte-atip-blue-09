@@ -67,7 +67,7 @@ export const MockedCensus: Census =
       "Masculina",
       "Feminina",
       "Não-binária",
-      "Agênero (ausência de gênero, gênero neutro, ou ausência de identidade de gênero)",
+      "Agênero",
       "Prefiro não responder",
       "Outro"
     ],

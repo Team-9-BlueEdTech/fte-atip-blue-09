@@ -6096,15 +6096,16095 @@ export const MockedAnswers: Answers[] =
     id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
     censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
     list: [
-      "18 a 25 anos",
+      "36 a 45 anos",
       "Ensino Superior",
       "Preta ou parda",
       "Feminina",
       "Pessoa transgênero",
-      "Bissexual",
+      "Prefiro não me classificar",
       "Coordenação",
       "De 5 a 10 anos",
-      "Manaus"
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa transgênero",
+      "Prefiro não me classificar",
+      "Coordenação",
+      "De 5 a 10 anos",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "36 a 45 anos",
+      "Ensino Superior",
+      "Preta ou parda",
+      "Feminina",
+      "Pessoa cisgênero",
+      "Prefiro não me classificar",
+      "Gerência",
+      "Mais de 10 anos",
+      "Rio Grande do Sul"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
+    ]
+  },
+  {
+    id: "2000b6ef-6ed7-48a5-936f-2d4bb6d15d78",
+    censusId: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",
+    list: [
+      "26 a 35 anos",
+      "Mestrado",
+      "Indígena",
+      "Não-binária",
+      "Pessoa cisgênero",
+      "Prefiro não responder",
+      "Diretoria / C-level",
+      "Mais de 10 anos",
+      "Mato Grosso"
     ]
   }
 ]

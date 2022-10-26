@@ -35,21 +35,39 @@ export const CardChart = styled.div`
 
 export const ChartBar = styled.div<StyledBarProps>`
 
-  ${({ value, size, color }) => css`
+  ${({ size }) => css`
+
+    width: 100%;
+    height: ${size}%;
+    min-height: 8%;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    position: relative;
+
+    h5 {
+      position: absolute;
+      left: 1rem;
+    }
+  `}
+
+`
+
+export const ChartValue = styled.div<StyledBarProps>`
+
+  ${({ value, color }) => css`
 
     width: ${value}%;
-    height: ${size}%;
+    height: 100%;
 
     background-color: ${color};
     border-radius: 0.5rem;
 
     display: flex;
     align-items: center;
-    padding: 1rem;
-
-    h4 {
-      position: absolute;
-    }
+    padding-right: 1rem;
   
   `}
 
