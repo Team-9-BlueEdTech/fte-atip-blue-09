@@ -15,7 +15,11 @@ const CensusDashboard = () => {
   const mainCharts: string[] = [ // this array can be added to the DB
     "Raça", "Identidade de Gênero",
     "Trans/Cisgênero", "Orientação Sexual",
-  ]; // a new string matching a questionsLabels just adds a new main chart :)
+  ]; // a new string matching a census.questionsLabels just adds a new main chart :)
+
+  const mainFilters: string[] = [
+    "Função", "Tempo"
+  ];
 
   useEffect(() => {
     if (censusId)
@@ -24,19 +28,33 @@ const CensusDashboard = () => {
   }, [])
 
   return (
-    <S.DivDashboard>
-      {
-        census && answers && mainCharts.map((chartName, index) => {
-          return <ChartCard
-            key={index}
-            title={chartName}
-            data={answers.map(answer => {
-              return answer.list[census.questionsLabels.indexOf(chartName)]
-            })}
-          />
-        })
-      }
-    </S.DivDashboard>
+    <S.MainDashboard>
+      <S.DivFilters>
+        {
+          mainFilters.map((name, index) => 
+            <S.Filter
+              key={index}              
+            >
+              <h3>{name}</h3>
+            </S.Filter>
+          )
+        }
+      </S.DivFilters>
+      <S.DivDashboard>
+        {
+          census && answers && mainCharts.map((chartName, index) => {
+            return <ChartCard
+              key={index}
+              title={chartName}
+              data={answers?.map(answer => {
+                return answer.list[census.questionsLabels.indexOf(chartName)]
+              })}
+              options={census.options[census.questionsLabels.indexOf(chartName)]}
+            />
+          })
+        }
+      </S.DivDashboard>
+    </S.MainDashboard>
   )
 }
 

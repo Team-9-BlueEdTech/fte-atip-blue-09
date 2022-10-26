@@ -45,7 +45,7 @@ export const MockedCensus: Census =
       "36 a 45 anos",
       "46 a 55 anos",
       "Mais de 55 anos",
-      "Prefiro não responder"
+      "Prefiro não responder",
     ],
     [
       "Ensino Fundamental",
