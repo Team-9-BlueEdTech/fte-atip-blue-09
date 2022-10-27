@@ -1,8 +1,6 @@
 import * as S from './styles'
 
 const ChartCard = ({ title, data, options }) => {
-
-  console.log(title, data, options);
   
   return (
     <S.Card>

@@ -16,24 +16,22 @@ const PartnerPage = () => {
 
   const { partnerId, censusId } = useParams();
   const { partner, getPartnerById } = usePartner();
-  const { census, getCensusById } = useCensus();
+  const { getCensusById, getAnswersByCensusId } = useCensus();
 
   const [admin, setAdmin] = useState<boolean>(true);
-  const [page, setPage] = useState<string>("Dashboard");
+  const [page, setPage] = useState<string>("Email");
 
   useEffect(() => {
-    if (partnerId)
+    if (partnerId) {
+      console.log("getPartner");      
       getPartnerById(partnerId);
+    }
     if (censusId) {
+      console.log("getCensus");
       getCensusById(censusId);
+      getAnswersByCensusId(censusId);
     }
-  }, []);
-
-  useEffect(() => {
-    if (census) {
-      getPartnerById(census?.partnerId);
-    }
-  }, [census]);
+  }, [censusId]);
 
   return (
     <>

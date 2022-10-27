@@ -1,16 +1,10 @@
-import { useEffect, useState } from "react";
-import { useParams } from "react-router-dom";
 import { useCensus } from "../../contexts/census";
-import { Answers } from "../../types";
-import { MockedAnswers } from "../../mocks/route-answers-by-census-id";
 import ChartCard from "../CensusChartCard";
 import * as S from './styles'
 
 const CensusDashboard = () => {
 
-  const { censusId } = useParams();
-  const { census, getCensusById } = useCensus();
-  const [ answers, setAnswers ] = useState<Answers[]>();
+  const { census, answers } = useCensus();
 
   const mainCharts: string[] = [ // this array can be added to the DB
     "Raça", "Identidade de Gênero",
@@ -21,14 +15,7 @@ const CensusDashboard = () => {
     "Função", "Tempo"
   ];
 
-  useEffect(() => {
-    if (censusId)
-      getCensusById(censusId)
-      setAnswers(MockedAnswers)
-  }, [])
-
   return (
-    census && answers &&
     <S.MainDashboard>
       <S.MainFilters>
         {
