@@ -12,10 +12,10 @@ export const Container = styled.div`
   display: flex;
   align-items: center;
   height: 100vh;
-  //background-color: whitesmoke;
+  //background-color: #F6F6F6;
+  //background-color: #101227;
+  //background-color: #DBDEE3;
   //background-color: #AA6CFF;
-  //background-color: #a96cff5b;
-  //background-color: #a96cff10;
 
 `;
 
@@ -30,7 +30,7 @@ export const ContainerModal = styled.div`
   border: 1px solid black;
   border-radius: 8px;
   div {
-    background-color: #dcdcdc;
+    background-color: #ccc;
     height: 40px;
     padding: 10px;
     border-radius: 8px;
@@ -46,18 +46,18 @@ export const ContainerModalForm = styled.form`
   margin: 80px 0;
 `;
 export const Span = styled.span`
-  background-color: #dcdcdc;
+  background-color: #ccc;
   display: flex;
 
   input {
     width: 290px;
     padding: 2px;
-    background-color: #dcdcdc;
+    background-color: #ccc;
     margin: auto 0;
     outline: none;
   }
   input:-webkit-autofill {
-    -webkit-box-shadow: 0 0 0 30px #dcdcdc inset;
+    -webkit-box-shadow: 0 0 0 30px #ccc inset;
 }
   .icon-react {
     margin-right: 10px;

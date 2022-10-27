@@ -1,7 +1,7 @@
 import styled, { css } from 'styled-components'
 
 interface StyledInputProps {
-  inputSize?: "large";
+  inputSize?: "large" | "x-large";
 }
 
 export const Input = styled.input<StyledInputProps>`
@@ -22,6 +22,12 @@ export const Input = styled.input<StyledInputProps>`
         width: 100%;
       `
     }
+
+    ${inputSize === "x-large" && css`
+      height: 2.5rem;
+      border-radius: 8px;
+      width: 100%;
+    `}
   
   `}
 

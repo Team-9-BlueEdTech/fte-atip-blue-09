@@ -43,7 +43,7 @@ export const AuthProvider = ({ children }: AuthProviderProps) => {
   const logout = () => {
     localStorage.clear();
     setLogged(false);
-    navigate("/");
+    navigate("/login");
   };
 
   const checkTokenExpiration = () => {
@@ -60,6 +60,7 @@ export const AuthProvider = ({ children }: AuthProviderProps) => {
       .get(`/admin/${user.id}`, headers)
       .then(() => {
         setLogged(true);
+        console.log(user);
         navigate("/admin");
       })
       .catch(() => {
@@ -70,7 +71,7 @@ export const AuthProvider = ({ children }: AuthProviderProps) => {
 
   useEffect(() => {
     const token = localStorage.getItem("token");
-
+    logout();
     if (token) checkTokenExpiration();
   }, []);
 

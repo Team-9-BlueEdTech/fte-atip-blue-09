@@ -6,6 +6,7 @@ import Home from './pages/Home';
 import PartnerPage from "./pages/Partner";
 import NewPartner from "./pages/Admin/NewPartner";
 import { useAuth } from './contexts/auth';
+import { useState } from 'react';
 
 const Router = () => {
   

@@ -13,7 +13,7 @@ export const StyledButton = styled.button<StyledButtonProps>`
 
     background-color: #aa6cff;
     color: white;
-    font-size: 1.2em;
+    font-size: 1.2rem;
     cursor: pointer;
 
     font: 600 1.2rem Source Sans Pro, sans-serif;
