@@ -9,6 +9,7 @@ const ChartCard = ({ title, data, options }) => {
         {
           options.map((option: string, index: number) =>
               <S.ChartBar
+                key={index}
                 size={10}
               >
                 <S.ChartValue

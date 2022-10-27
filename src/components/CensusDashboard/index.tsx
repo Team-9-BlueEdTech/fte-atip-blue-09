@@ -20,7 +20,9 @@ const CensusDashboard = () => {
       <S.MainFilters>
         {
           mainFilters.map((name, index) =>
-            <S.DivFilters>
+            <S.DivFilters
+              key={index}
+            >
               <S.Filter
                 key={index}              
               >
