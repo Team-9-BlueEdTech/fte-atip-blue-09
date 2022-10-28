@@ -1,3 +1,4 @@
+import { useSearchParams } from "react-router-dom";
 import { useCensus } from "../../contexts/census";
 import ChartCard from "../CensusChartCard";
 import * as S from './styles'
@@ -7,7 +8,7 @@ const CensusDashboard = () => {
   const { census, answers } = useCensus();
 
   const mainCharts: string[] = [ // this array can be added to the DB
-    "Raça", "Identidade de Gênero",
+    "Etnia", "Identidade de Gênero",
     "Trans/Cisgênero", "Orientação Sexual",
   ]; // a new string matching a census.questionsLabels just adds a new main chart :)
 
@@ -16,25 +17,20 @@ const CensusDashboard = () => {
   ];
 
   return (
+    census &&
     <S.MainDashboard>
       <S.MainFilters>
         {
           mainFilters.map((name, index) =>
-            <S.DivFilters
-              key={index}
-            >
-              <S.Filter
-                key={index}              
-              >
+            <S.DivFilters key={index} >
+              <S.Filter key={index} >
                 <h3>{name}</h3>
               </S.Filter>
               <S.DivOptions>
                 {
                   census.options[census.questionsLabels.indexOf(name)].map(
                     (option: string[], index: number) => 
-                      <S.Filter
-                        key={index}
-                      >
+                      <S.Filter key={index}>
                         {option}
                       </S.Filter>
                   )

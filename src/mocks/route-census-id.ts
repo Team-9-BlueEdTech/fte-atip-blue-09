@@ -8,7 +8,7 @@ export const MockedCensus: Census =
   questionsLabels: [
     "Idade",
     "Escolaridade",
-    "Raça",
+    "Etnia",
     "Identidade de Gênero",
     "Trans/Cisgênero",
     "Orientação Sexual",
