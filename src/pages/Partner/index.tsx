@@ -36,6 +36,11 @@ const PartnerPage = () => {
     }
   }, [census]);
 
+  useEffect(()=>{
+    if(partner?.firstLogin == true){
+      navigate(`/partner/${partnerId}/firstLogin`)
+    }
+  })
   return (
     <>
       <Header />
