@@ -33,6 +33,11 @@ const PartnerPage = () => {
     }
   }, [censusId]);
 
+  useEffect(()=>{
+    if(partner?.firstLogin == true){
+      navigate(`/partner/${partnerId}/firstLogin`)
+    }
+  })
   return (
     <>
       <Header />

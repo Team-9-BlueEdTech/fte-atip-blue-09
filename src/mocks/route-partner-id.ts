@@ -10,6 +10,7 @@ export const MockedPartner: Partner =
   email: "c@metlife.com.br",
   password: "hash",
   logo: LogoMetLife,
+  firstLogin: true,
   census: [
     {
       id: "30e381ff-6ed7-48a5-936f-2d4bb6d15d78",

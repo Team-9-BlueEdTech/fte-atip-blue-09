@@ -21,12 +21,13 @@ export interface Partner {
   submit: boolean;
   census: CensusIndex[];
   persons: string[];
+  firstLogin: boolean;
   createdAt: string;
 }
 
 export interface CensusIndex {
   id: string;
-  createdAt: string;  
+  createdAt: string;
 }
 
 export interface Census {
@@ -53,3 +54,11 @@ export interface Answers {
   list: Array<string | string[] | undefined>;
 }
 
+export interface EmailIndex {
+  email: string;
+}
+
+export interface ChangePassword {
+  password: string;
+  confirmPassword?: string;
+}

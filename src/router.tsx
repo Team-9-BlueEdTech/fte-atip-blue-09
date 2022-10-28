@@ -24,6 +24,7 @@ const Router = () => {
             <Route path="/login" element={<Login />} />
             <Route path="/partner/new" element={<NewPartner />} />
             <Route path="/partner/:partnerId" element={<PartnerPage />} />
+            <Route path="/partner/firstlogin" element={<ChangePassPage />} />
             
           </>
         ) : (
