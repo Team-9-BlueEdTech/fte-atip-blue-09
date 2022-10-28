@@ -21,6 +21,7 @@ export interface Partner {
   submit: boolean;
   census: CensusIndex[];
   persons: string[];
+  firstLogin: boolean;
   createdAt: string;
 }
 
@@ -54,4 +55,3 @@ export interface ChangePassword {
   password: string;
   confirmPassword?: string;
 }
-
