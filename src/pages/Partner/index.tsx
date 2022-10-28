@@ -8,6 +8,7 @@ import CensusPage from "../../components/Census/Census";
 import * as S from "./styles";
 import EmailListing from "../../components/ListingEmail";
 import QuestionsList from "../../components/ListingQuestions";
+import CensusDashboard from "../../components/CensusDashboard";
 
 const PartnerPage = () => {
 
@@ -18,20 +19,18 @@ const PartnerPage = () => {
   const { census, getCensusById } = useCensus();
 
   const [admin, setAdmin] = useState<boolean>(true);
-  const [page, setPage] = useState<string>("Email");
+  const [page, setPage] = useState<string>("Dashboard");
 
   useEffect(() => {
     if (partnerId)
-    getPartnerById(partnerId);
+      getPartnerById(partnerId);
     if (censusId) {
-      console.log("getCensus")
       getCensusById(censusId);
     }
   }, []);
 
   useEffect(() => {
     if (census) {
-      console.log("getPartner")    
       getPartnerById(census?.partnerId);
     }
   }, [census]);
@@ -91,7 +90,7 @@ const PartnerPage = () => {
           censusId && (
             page === "Email" ? <EmailListing /> :
             page === "Perguntas" ? <QuestionsList /> :
-            page === "Dashboard" ? <h1>Dashboard</h1> :
+            page === "Dashboard" ? <CensusDashboard /> :
             page === "Adesão" ? <h1>Adesão</h1> :
             <CensusPage />
           )
