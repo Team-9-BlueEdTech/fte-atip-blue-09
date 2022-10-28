@@ -1,6 +1,5 @@
-import { useState, useEffect } from "react";
-import { useParams, useNavigate } from "react-router-dom"
-import { useCensus } from "../../contexts/census";
+import { useState } from "react";
+import { useNavigate } from "react-router-dom"
 import { usePartner } from "../../contexts/partner";
 import * as S from "./styles";
 
@@ -8,25 +7,9 @@ const CensusPage = () => {
 
   const navigate = useNavigate();
 
-  const { censusId } = useParams();
-  const { partner, getPartnerById } = usePartner();
-  const { census, getCensusById } = useCensus();
+  const { partner } = usePartner();
 
-  const [spinner, setSpinner] = useState<boolean>(false)
-
-  useEffect(() => {
-    if (censusId) {
-      console.log("getCensus")
-      getCensusById(censusId);
-    }
-  }, []);
-
-  useEffect(() => {
-    if (census) {
-      console.log("getPartner")    
-      getPartnerById(census?.partnerId);
-    }
-  }, [census]);
+  const [ spinner, setSpinner ] = useState<boolean>(false)
 
   return(
     <S.CensusDashboard>

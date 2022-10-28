@@ -1,48 +1,60 @@
-import { ResponsivePie } from "@nivo/pie"
+import { useSearchParams } from "react-router-dom";
+import { useCensus } from "../../contexts/census";
+import ChartCard from "../CensusChartCard";
 import * as S from './styles'
 
 const CensusDashboard = () => {
 
-  const data = [
-    {
-      "id": "lisp",
-      "label": "lisp",
-      "value": 572,
-      "color": "hsl(29, 70%, 50%)"
-    },
-    {
-      "id": "javascript",
-      "label": "javascript",
-      "value": 516,
-      "color": "hsl(71, 70%, 50%)"
-    },
-    {
-      "id": "elixir",
-      "label": "elixir",
-      "value": 356,
-      "color": "hsl(335, 70%, 50%)"
-    },
-    {
-      "id": "sass",
-      "label": "sass",
-      "value": 114,
-      "color": "hsl(93, 70%, 50%)"
-    },
-    {
-      "id": "css",
-      "label": "css",
-      "value": 411,
-      "color": "hsl(114, 70%, 50%)"
-    }
-  ]
+  const { census, answers } = useCensus();
 
- return (
-    <S.DivDashboard>
-      <ResponsivePie
-        data={data}
-        
-      />
-    </S.DivDashboard>
+  const mainCharts: string[] = [ // this array can be added to the DB
+    "Etnia", "Identidade de Gênero",
+    "Trans/Cisgênero", "Orientação Sexual",
+  ]; // a new string matching a census.questionsLabels just adds a new main chart :)
+
+  const mainFilters: string[] = [
+    "Função", "Tempo"
+  ];
+
+  return (
+    census &&
+    <S.MainDashboard>
+      <S.MainFilters>
+        {
+          mainFilters.map((name, index) =>
+            <S.DivFilters key={index} >
+              <S.Filter key={index} >
+                <h3>{name}</h3>
+              </S.Filter>
+              <S.DivOptions>
+                {
+                  census.options[census.questionsLabels.indexOf(name)].map(
+                    (option: string[], index: number) => 
+                      <S.Filter key={index}>
+                        {option}
+                      </S.Filter>
+                  )
+                }
+              </S.DivOptions>
+            </S.DivFilters>
+          )
+        }
+      </S.MainFilters>
+      <S.DivDashboard>
+        {
+          mainCharts.map((chartName, index) => {
+            return <ChartCard
+              key={index}
+              title={chartName}
+              data={answers.map(answer => {
+                return answer.list[census.questionsLabels.indexOf(chartName)]
+              })}
+              options={census.options[census.questionsLabels.indexOf(chartName)]}
+            />
+          })
+        }
+      </S.DivDashboard>
+    </S.MainDashboard>
   )
 }
 

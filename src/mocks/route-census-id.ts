@@ -8,13 +8,13 @@ export const MockedCensus: Census =
   questionsLabels: [
     "Idade",
     "Escolaridade",
-    "Raça",
+    "Etnia",
     "Identidade de Gênero",
     "Trans/Cisgênero",
     "Orientação Sexual",
     "Função",
     "Tempo",
-    "Área"
+    "Localização"
   ],
   questions: [
     "A minha idade é",
@@ -45,7 +45,7 @@ export const MockedCensus: Census =
       "36 a 45 anos",
       "46 a 55 anos",
       "Mais de 55 anos",
-      "Prefiro não responder"
+      "Prefiro não responder",
     ],
     [
       "Ensino Fundamental",
@@ -67,7 +67,7 @@ export const MockedCensus: Census =
       "Masculina",
       "Feminina",
       "Não-binária",
-      "Agênero (ausência de gênero, gênero neutro, ou ausência de identidade de gênero)",
+      "Agênero",
       "Prefiro não responder",
       "Outro"
     ],
