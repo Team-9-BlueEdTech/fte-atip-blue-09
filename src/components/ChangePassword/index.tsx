@@ -1,15 +1,13 @@
 import { yupResolver } from "@hookform/resolvers/yup";
-import { useState } from "react";
 import { useForm } from "react-hook-form";
 import { useNavigate, useParams } from "react-router-dom";
-import * as yup from "yup";
+import { usePartner } from "../../contexts/partner";
 import api from "../../services/api";
 import Button from "../Button";
 import Header from "../Header";
 import Input from "../Input";
 import * as S from "./styles";
-import { usePartner } from "../../contexts/partner";
-import React from "react";
+import * as yup from "yup";
 
 interface ChangePassword {
   password: string;

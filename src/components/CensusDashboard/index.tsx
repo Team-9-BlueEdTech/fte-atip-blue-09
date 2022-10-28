@@ -1,4 +1,3 @@
-import { useSearchParams } from "react-router-dom";
 import { useCensus } from "../../contexts/census";
 import ChartCard from "../CensusChartCard";
 import * as S from './styles'
@@ -17,7 +16,6 @@ const CensusDashboard = () => {
   ];
 
   return (
-    census &&
     <S.MainDashboard>
       <S.MainFilters>
         {

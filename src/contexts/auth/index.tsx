@@ -60,7 +60,7 @@ export const AuthProvider = ({ children }: AuthProviderProps) => {
       .get(`/admin/${user.id}`, headers)
       .then(() => {
         setLogged(true);
-        navigate("/admin");
+        // navigate("/admin");
       })
       .catch(() => {
         logout();
