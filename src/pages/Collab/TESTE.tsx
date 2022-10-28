@@ -32,31 +32,28 @@ const Collab = () => {
                         final_vals.push(val.split(','));
                     });
 
-                generate_table(final_vals)
-                .then(result => {
-                    displayArea.innerHTML = result;
-                    const th_values = document.getElementsByTagName('th');
-                    const td_values = document.getElementsByTagName('td');
+                displayArea.innerHTML = generate_table(final_vals);
+                const th_values = document.getElementsByTagName('th');
+                const td_values = document.getElementsByTagName('td');
 
-                    const capitilize_table_column = (table_el: HTMLElement) => {
-                        table_el.innerHTML =  table_el.innerHTML[0].toUpperCase() + table_el.innerHTML.slice(1);
-                    }
+                const capitilize_table_column = (table_el: HTMLElement) => {
+                    table_el.innerHTML =  table_el.innerHTML[0].toUpperCase() + table_el.innerHTML.slice(1);
+                }
 
-                    for(const th_val of th_values) {
-                        capitilize_table_column(th_val);
-                    }
-                    
-                    for(const td_val of td_values) {
-                        capitilize_table_column(td_val);
-                    }
-                });
+                for(const th_val of th_values) {
+                    capitilize_table_column(th_val);
+                }
+                
+                for(const td_val of td_values) {
+                    capitilize_table_column(td_val);
+                }
             }}
             csvReader.readAsText(input);
     }});
 
-    const generate_table = async (arrayTable: string[][]) : Promise<string> => {
-        return `
-        <table class="table table-striped">
+    const generate_table = (arrayTable: string[][]): JSX.Element => {
+        return (
+        <table className="table table-striped">
             <thead>
                 ${arrayTable[0].map(val => {
                     return `
@@ -79,7 +76,7 @@ const Collab = () => {
             }).join('')}
             </tbody>
         </table>
-    `;
+        );
     }
     
 
