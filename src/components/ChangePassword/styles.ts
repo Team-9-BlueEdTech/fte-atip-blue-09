@@ -13,19 +13,25 @@ export const MainDiv = styled.main`
 
 
 `
-export const DivInput = styled.div`
+export const FormChangePassword = styled.form`
 
-width: 100%;
-height: 27vh;
+height: 30vh;
 align-items: center;
 display: flex;
 flex-direction: column;
 margin: 20px 0 0 0 ;
 
 input {
-  margin: 20px;
+  margin: 10px;
 }
-
 
 `
 
+export const ErrorMessage = styled.p`
+color: red;
+align-self: center;
+font-size: small;
+height: 1rem;
+margin: 10px 0 25px 0;
+max-width: 330px;
+`;

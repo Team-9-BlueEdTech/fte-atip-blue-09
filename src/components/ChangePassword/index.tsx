@@ -1,17 +1,20 @@
 import { yupResolver } from "@hookform/resolvers/yup";
+import { useState } from "react";
 import { useForm } from "react-hook-form";
+import { useNavigate, useParams } from "react-router-dom";
 import * as yup from "yup";
 import api from "../../services/api";
 import Button from "../Button";
 import Header from "../Header";
 import Input from "../Input";
 import * as S from "./styles";
+import { usePartner } from "../../contexts/partner";
+import React from "react";
 
 interface ChangePassword {
   password: string;
   confirmPassword?: string;
 }
-
 const changePasswordSchema = yup.object().shape({
   password: yup
     .string()
@@ -25,10 +28,16 @@ const changePasswordSchema = yup.object().shape({
   confirmPassword: yup
     .string()
     .min(8, "Reescreva sua senha neste campo.")
-    .required("Campo de senha obrigatório."),
+    .when("password", (password: string, field: any) =>
+      password ? field.required().oneOf([yup.ref("password")]) : field
+    ),
 });
 
 const ChangePassPage = () => {
+  const { partnerId } = useParams();
+  const navigate = useNavigate();
+  const { partner } = usePartner();
+
   const {
     register,
     handleSubmit,
@@ -37,36 +46,32 @@ const ChangePassPage = () => {
 
   const handleChangePassword = (data: ChangePassword) => {
     api
-      .patch(`/update/`,data)
+      .patch(`partner/update`, data)
+      .then((res) => {
+        navigate("/login");
+      })
       .catch(() => {
-        console.log("Senha inválida");
+        console.log("Senha inválida.");
       });
   };
-
-  // const confirmPassword = (password: string, confirmPassword: string) => {
-  //   if (confirmPassword !== password) {
-  //     errors.confirmPassword?.message;
-  //   }
-  // };
 
   return (
     <>
       <Header />
       <S.MainDiv>
         <h1>Mudar senha</h1>
-        <S.DivInput>
+        <S.FormChangePassword onSubmit={handleSubmit(handleChangePassword)}>
           <Input
             placeholder="Nova Senha"
             type="password"
             {...register("password")}
           />
-          <Input
-            placeholder="Confirmação de senha"
-            type="confirmPassword"
-            {...register("confirmPassword")}
-          />
-        </S.DivInput>
-        <Button text="Enviar" variant="add" />
+          <Input placeholder="Confirmação de senha" type="confirmPassword" />
+          <S.ErrorMessage>
+            {errors.confirmPassword?.message || errors.password?.message}
+          </S.ErrorMessage>
+          <Button text="Enviar" variant="add" type="submit" />
+        </S.FormChangePassword>
       </S.MainDiv>
     </>
   );
