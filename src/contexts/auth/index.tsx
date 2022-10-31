@@ -7,7 +7,7 @@ import {
 } from "react";
 import swal from "sweetalert";
 import { useNavigate } from "react-router-dom";
-import { User } from "../../types/index";
+import { Partner, User } from "../../types/index";
 import api from "../../services/api"
 
 interface AuthProviderProps {
@@ -17,6 +17,7 @@ interface AuthProviderProps {
 interface AuthProviderData {
   logged: boolean;
   login: (params: LoginParams) => void;
+  admin: boolean;
   logout: () => void;
 }
 
@@ -31,23 +32,34 @@ export const AuthProvider = ({ children }: AuthProviderProps) => {
   const navigate = useNavigate();
 
   const [logged, setLogged] = useState<boolean>(false);
+  const [admin, setAdmin] = useState<boolean>(false);
+
+  console.log("Logged", logged, "Admin", admin);  
 
   const login = ({ token, user }: LoginParams) => {
+
     localStorage.setItem("token", token);
     localStorage.setItem("user", JSON.stringify(user));
     setLogged(true);
-    navigate("/admin");
     swal("Login bem sucedido!");
+
+    if (user.isAdmin) {
+      setAdmin(true);      
+      navigate("/admin");
+    } else {
+      navigate(`/partner/${user.id}`);
+    }
   };
 
   const logout = () => {
     localStorage.clear();
     setLogged(false);
-    navigate("/login");
+    setAdmin(false);
+    navigate("/");
   };
 
   const checkTokenExpiration = () => {
-    const user = JSON.parse(localStorage.getItem("user") || "");
+    // const user = JSON.parse(localStorage.getItem("user") || "");
     const token = localStorage.getItem("token");
 
     const headers = {
@@ -57,14 +69,18 @@ export const AuthProvider = ({ children }: AuthProviderProps) => {
     };
 
     api
-      .get(`/admin/${user.id}`, headers)
-      .then(() => {
+      .get(`/auth`, headers)
+      .then((res) => {          
         setLogged(true);
-        console.log(user);
-        navigate("/admin");
+        if (res.data.isAdmin) {
+          setAdmin(true);
+          navigate("/admin");
+        } else {
+          navigate(`/partner/${res.data.id}`)
+        }
       })
-      .catch(() => {
-        logout();
+      .catch((e) => {
+        logout();        
         swal("Necessário fazer login novamente");
       });
   };
@@ -76,7 +92,7 @@ export const AuthProvider = ({ children }: AuthProviderProps) => {
   }, []);
 
   return (
-    <AuthContext.Provider value={{ logged, login, logout }}>
+    <AuthContext.Provider value={{ logged, login, admin, logout }}>
       {children}
     </AuthContext.Provider>
   );

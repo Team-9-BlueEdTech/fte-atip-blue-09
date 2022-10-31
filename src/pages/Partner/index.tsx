@@ -8,33 +8,37 @@ import CensusPage from "../../components/Census/Census";
 import * as S from "./styles";
 import EmailListing from "../../components/ListingEmail";
 import QuestionsList from "../../components/ListingQuestions";
+import CensusDashboard from "../../components/CensusDashboard";
+import { useAuth } from "../../contexts/auth";
 
 const PartnerPage = () => {
 
   const navigate = useNavigate();
 
   const { partnerId, censusId } = useParams();
+  const { admin } = useAuth();
   const { partner, getPartnerById } = usePartner();
-  const { census, getCensusById } = useCensus();
+  const { getCensusById, getAnswersByCensusId } = useCensus();
 
-  const [admin, setAdmin] = useState<boolean>(true);
   const [page, setPage] = useState<string>("Email");
 
   useEffect(() => {
-    if (partnerId)
-    getPartnerById(partnerId);
+    if (partnerId) {
+      console.log("getPartner");      
+      getPartnerById(partnerId);
+    }
     if (censusId) {
-      console.log("getCensus")
+      console.log("getCensus");
       getCensusById(censusId);
+      getAnswersByCensusId(censusId);
     }
-  }, []);
+  }, [censusId]);
 
-  useEffect(() => {
-    if (census) {
-      console.log("getPartner")    
-      getPartnerById(census?.partnerId);
-    }
-  }, [census]);
+  // useEffect(()=>{
+  //   if(partner?.firstLogin == true){
+  //     navigate(`/partner/${partnerId}/firstLogin`)
+  //   }
+  // }, []);
 
   return (
     <>
@@ -86,7 +90,7 @@ const PartnerPage = () => {
           censusId && (
             page === "Email" ? <EmailListing /> :
             page === "Perguntas" ? <QuestionsList /> :
-            page === "Dashboard" ? <h1>Dashboard</h1> :
+            page === "Dashboard" ? <CensusDashboard /> :
             page === "Adesão" ? <h1>Adesão</h1> :
             <CensusPage />
           )

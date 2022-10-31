@@ -41,11 +41,14 @@ const Login = () => {
     api
       .post(`/auth`, data)
       .then((res) => {
-        console.log(res);
-        login({ token: res.data.token, user: res.data.admin });
+        if (res.data.admin) {
+          login({ token: res.data.token, user: res.data.admin });
+        } else {
+          login({ token: res.data.token, user: res.data.partner });
+        }
       })
-      .catch(() => {
-        console.log("Usuário ou senha inválidos");
+      .catch((e) => {
+        console.log(e, "Usuário ou senha inválidos");
       });
   };
 

@@ -3,6 +3,8 @@ export interface User {
   email?: string;
   password?: string;
   confirmPassword?: string;
+  isAdmin: boolean;
+  id?: string;
 }
 
 export interface PartnerIndex {
@@ -21,31 +23,44 @@ export interface Partner {
   submit: boolean;
   census: CensusIndex[];
   persons: string[];
+  firstLogin: boolean;
   createdAt: string;
 }
 
 export interface CensusIndex {
   id: string;
-  createdAt: string;  
+  createdAt: string;
 }
 
 export interface Census {
   id: string;
   partnerId: string;
   launchDate: string;
-  questions: [{}];
-  hierarchyLevel: [];
-  area: [];
-  actingTime: [];
-  answersId: string;
+  questionsLabels: Array<string | string[] | undefined>;
+  questions: Array<string | string[] | undefined>;
+  questionsObs: Array<string | string[] | undefined>;
+  options: Array<string | string[] | undefined>;
+  collaborated: [];
 }
 
 export interface Person {
+  id: string;
   partnerId: string;
   email: string;
-  collaborated: boolean;
+  lgpdConfirm: boolean;
+}
+
+export interface Answers {
+  id: string;
+  censusId: string;
+  list: Array<string | string[] | undefined>;
 }
 
 export interface EmailIndex {
   email: string;
+}
+
+export interface ChangePassword {
+  password: string;
+  confirmPassword?: string;
 }
