@@ -74,7 +74,6 @@ const Login = () => {
             <Styled.ErrorMessage>
               {errors.email?.message || errors.password?.message}
             </Styled.ErrorMessage>
-            {/*<Styled.Button type="submit">Entrar</Styled.Button>*/}
             <Button text="Entrar" variant="login-size" type="submit"/>
           </Styled.ContainerModalForm>
           <h2>Sua empresa ainda não possui cadastro?</h2>

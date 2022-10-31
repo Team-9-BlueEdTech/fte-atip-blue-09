@@ -87,7 +87,7 @@ export const AuthProvider = ({ children }: AuthProviderProps) => {
 
   useEffect(() => {
     const token = localStorage.getItem("token");
-
+    logout();
     if (token) checkTokenExpiration();
   }, []);
 

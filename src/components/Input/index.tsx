@@ -2,7 +2,7 @@ import { forwardRef, InputHTMLAttributes } from "react";
 import * as S from './styles';
 
 interface InputProps extends InputHTMLAttributes<HTMLInputElement> {
-  inputSize?: "large";
+  inputSize?: "large" | "x-large";
 }
 
 const Input = ({ inputSize, ...props }: InputProps) => {
@@ -11,4 +11,4 @@ const Input = ({ inputSize, ...props }: InputProps) => {
   )
 }
 
-export default forwardRef(Input);
+export default Input
