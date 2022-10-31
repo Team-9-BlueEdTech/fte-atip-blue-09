@@ -9,16 +9,17 @@ import * as S from "./styles";
 import EmailListing from "../../components/ListingEmail";
 import QuestionsList from "../../components/ListingQuestions";
 import CensusDashboard from "../../components/CensusDashboard";
+import { useAuth } from "../../contexts/auth";
 
 const PartnerPage = () => {
 
   const navigate = useNavigate();
 
   const { partnerId, censusId } = useParams();
+  const { admin } = useAuth();
   const { partner, getPartnerById } = usePartner();
   const { getCensusById, getAnswersByCensusId } = useCensus();
 
-  const [admin, setAdmin] = useState<boolean>(true);
   const [page, setPage] = useState<string>("Email");
 
   useEffect(() => {

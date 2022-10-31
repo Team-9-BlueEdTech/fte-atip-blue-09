@@ -34,8 +34,7 @@ export const AuthProvider = ({ children }: AuthProviderProps) => {
   const [logged, setLogged] = useState<boolean>(false);
   const [admin, setAdmin] = useState<boolean>(false);
 
-  console.log("Logged", logged, "Admin", admin);
-  
+  console.log("Logged", logged, "Admin", admin);  
 
   const login = ({ token, user }: LoginParams) => {
 
