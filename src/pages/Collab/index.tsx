@@ -2,11 +2,15 @@ import { useRef, useMemo, useState, DragEvent, FormEvent } from "react"
 import '../../assets/styles/collab.css'
 
 const Collab = () => {
-  
   const [dragActive, setDrag] = useState<boolean>(true)
   const [dragOver, setDragOver] = useState<boolean>(false)
   const [list, setList] = useState<string[]>([])
   const inputRef = useRef<HTMLInputElement>(null)
+
+  const removeIndex = (e: React.MouseEvent<HTMLButtonElement, MouseEvent>) => {
+    const target = e.target as HTMLButtonElement
+    setList(prev => prev.filter(item => item != target.value))
+  }
 
   const handleDrop = (e: DragEvent<HTMLFormElement>) => {
     e.stopPropagation()
@@ -44,12 +48,12 @@ const Collab = () => {
       <h1>
         Collab Page
       </h1>
-      <div style={{ position: 'relative' }}>
+      <div style={{ position: 'relative' }} className='container'>
         <form
           id="file-upload"
           style={{
             userSelect: 'none',
-            border:`5px solid ${dragOver && dragActive ? 'lightgreen' : 'transparent'}`,
+            border:'5px solid transparent',
             position: 'relative',
             top: 0,
             left: 0
@@ -65,44 +69,44 @@ const Collab = () => {
             multiple={true}
             disabled={!dragActive}
             id="file-input"
-            style={{
-              height: 'inherit',
-              width: 'inherit',
-              display: 'block',
-              opacity: 0,
-              position: 'absolute',
-              top: 0,
-              left: 0,
-              zIndex: 10
-            }}
-            onDrag={console.log}
-            draggable={true}
           />
-          <label id="label-upload" htmlFor="file-input">
+          <label
+            id="label-upload"
+            htmlFor="file-input"
+            style={{
+              borderColor: dragOver ? '#00FA19' :  '#CBD5E1',
+              color: dragOver ? '#00FA19' :  'aliceblue'
+            }}
+          >
             <div style={{ fontSize: '50px', textAlign: 'center' }}>
               <p>Drag a CSV file or</p>
               <button className="upload-button">Upload a file</button>
             </div>
           </label>
         </form>
-      </div>
-      <form onSubmit={e => {
-        e.preventDefault()
-        const value = inputRef.current?.value
-        if (!value) return;
-        setList(prev => [...prev, value])
-        inputRef.current.value = ''
-      }}>
-        <input ref={inputRef} type='text' />
-        <button type="submit">Add</button>
-      </form>
-      <div>
-        {list.map((item) => {
-          return <p key={item}>
-            { item }
-          </p>
-        }
-        )}
+        <form
+          onSubmit={e => {
+            e.preventDefault()
+            const value = inputRef.current?.value
+            if (!value) return;
+            setList(prev => [...prev, value])
+            inputRef.current.value = ''
+          }}
+          id='add-single'
+        >
+          <input ref={inputRef} type='text' />
+          <button type="submit">Add</button>
+        </form>
+        <ul>
+          { list.map(i => <li key={i}>
+            <div>{i}
+              <span>
+                <button onClick={removeIndex} value={i}> X </button>
+              </span>
+            </div>
+            </li>)
+          }
+        </ul>
       </div>
     </div>
   )

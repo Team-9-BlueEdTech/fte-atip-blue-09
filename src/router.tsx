@@ -1,6 +1,7 @@
 import { Routes, Route, Navigate } from 'react-router-dom';
 import Admin from './pages/Admin';
 import Collab from './pages/Collab';
+import Questions from './pages/Collab/questions';
 import Login from './pages/Login';
 import Partner from './pages/Partner';
 import Home from './pages/Home';
@@ -10,13 +11,13 @@ import { useState } from "react";
 const Router = () => {
 
   // const { logged } = useAuth();
-  const [logged, setLogged] = useState(true);  
-
+  const [logged, setLogged] = useState(true);
   return (
     <Routes>
       {logged ? (
         <>
           <Route path="/" element={<Home />}></Route>
+          <Route path="/questions" element={<Questions />}></Route>
           <Route path="/login" element={<Login />}></Route>
           <Route path="/collab" element={<Collab />}></Route>
           <Route path="/partner" element={<Partner />}></Route>
@@ -27,7 +28,7 @@ const Router = () => {
       )}     
       <Route
         path="*"
-        element={<Navigate to={logged ? "/" : "/"} replace />}
+        element={<Navigate to={"/"} replace />}
       />
     </Routes>  
   )
