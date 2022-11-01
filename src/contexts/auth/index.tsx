@@ -80,8 +80,6 @@ export const AuthProvider = ({ children }: AuthProviderProps) => {
         }
       })
       .catch((e) => {
-        console.error(e);
-        
         logout();        
         swal("Necessário fazer login novamente");
       });

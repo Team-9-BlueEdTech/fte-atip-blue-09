@@ -10,33 +10,35 @@ import ChangePassPage from "./components/ChangePassword";
 
 const Router = () => {
   
-  const { logged } = useAuth();
+  const { logged, admin } = useAuth();
 
   return (
     <Routes>
       {
         logged ? (
           <>
-            <Route path="/" element={<Home />} />
-            <Route path="/admin" element={<Admin />} />
             <Route path="/census/:censusId" element={<PartnerPage />} />
-            <Route path="/collab" element={<Collab />} />
-            <Route path="/login" element={<Login />} />
-            <Route path="/partner/new" element={<NewPartner />} />
             <Route path="/partner/:partnerId" element={<PartnerPage />} />
             <Route path="/partner/:partnerId/firstlogin" element={<ChangePassPage />} />
-            
+            {
+              admin &&
+              <>
+                <Route path="/admin" element={<Admin />} />
+                <Route path="/partner/new" element={<NewPartner />} />
+              </>
+            }
           </>
         ) : (
           <>
             <Route path="/" element={<Home />} />
             <Route path="/login" element={<Login />} />
+            <Route path="/collab" element={<Collab />} />
           </>
         )
-      }     
+      }
       <Route
         path="*"
-        element={<Navigate to={logged ? "/" : "/"} replace />}
+        element={<Navigate to={admin ? "/admin" : "/"} replace />}
       />
     </Routes>  
   )
