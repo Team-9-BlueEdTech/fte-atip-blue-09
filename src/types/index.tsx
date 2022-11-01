@@ -5,6 +5,7 @@ export interface User {
   confirmPassword?: string;
   isAdmin: boolean;
   id?: string;
+  firstLogin?: boolean;
 }
 
 export interface PartnerIndex {

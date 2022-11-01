@@ -44,10 +44,10 @@ export const AuthProvider = ({ children }: AuthProviderProps) => {
     swal("Login bem sucedido!");
 
     if (user.isAdmin) {
-      setAdmin(true);      
+      setAdmin(true);
       navigate("/admin");
     } else {
-      navigate(`/partner/${user.id}`);
+      navigate(`/partner/${user.id}${user.firstLogin && "/firstlogin"}`);
     }
   };
 
