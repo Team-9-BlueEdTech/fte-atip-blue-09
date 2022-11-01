@@ -76,10 +76,12 @@ export const AuthProvider = ({ children }: AuthProviderProps) => {
           setAdmin(true);
           navigate("/admin");
         } else {
-          navigate(`/partner/${res.data.id}`)
+          navigate(`/partner/${res.data.id}${res.data.firstLogin && "/firstlogin"}`)
         }
       })
       .catch((e) => {
+        console.error(e);
+        
         logout();        
         swal("Necessário fazer login novamente");
       });
@@ -87,7 +89,7 @@ export const AuthProvider = ({ children }: AuthProviderProps) => {
 
   useEffect(() => {
     const token = localStorage.getItem("token");
-    logout();
+
     if (token) checkTokenExpiration();
   }, []);
 

@@ -8,6 +8,7 @@ import { usePartner } from "../../contexts/partner";
 import { MockedPartnerList } from "../../mocks/route-admin-partners";
 import { PartnerIndex } from "../../types";
 import * as S from "./styles";
+import api from "../../services/api";
 
 const Admin = () => {
 
@@ -20,8 +21,14 @@ const Admin = () => {
   const [showFilter, setShowFilter] = useState<boolean>(false);
 
   const loadPartners = () => {
-    //api.get
-    setPartnersList(MockedPartnerList)
+    api.
+      get('/partner')
+      .then((res) => {
+        setPartnersList(res.data);        
+      })
+      .catch((error) => {
+        console.error(error);
+      })
   }
 
   useEffect(() => {

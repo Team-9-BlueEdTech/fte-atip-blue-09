@@ -34,7 +34,6 @@ const changePasswordSchema = yup.object().shape({
 const ChangePassPage = () => {
   const { partnerId } = useParams();
   const navigate = useNavigate();
-  const { partner } = usePartner();
 
   const {
     register,
@@ -44,7 +43,7 @@ const ChangePassPage = () => {
 
   const handleChangePassword = (data: ChangePassword) => {
     api
-      .patch(`partner/update`, data)
+      .patch(`partner/${partnerId}`, data)
       .then((res) => {
         navigate("/login");
       })
