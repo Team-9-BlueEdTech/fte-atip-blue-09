@@ -12,6 +12,17 @@ const Collab = () => {
     setList(prev => prev.filter(item => item != target.value))
   }
 
+  const executeSubmit = (): void => {
+    const body = {
+      emails: list
+    }
+    fetch('link pro cuzinho', {
+      body: JSON.stringify(body),
+      headers: { 'Content-Type': 'application/json' },
+      method: 'POST'
+    })
+  }
+
   const handleDrop = (e: DragEvent<HTMLFormElement>) => {
     e.stopPropagation()
     e.preventDefault()
@@ -97,6 +108,7 @@ const Collab = () => {
           <input ref={inputRef} type='text' />
           <button type="submit">Add</button>
         </form>
+        <button type="submit" onClick={executeSubmit}>Submit Emails</button>
         <ul>
           { list.map(i => <li key={i}>
             <div>{i}

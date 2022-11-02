@@ -9,8 +9,4 @@ export interface Option {
   text: string
 }
 
-export type QuestionArray = {
-  id: number
-  text: string
-  optIndex: number
-}[]
+export type QuestionArray = Question[]

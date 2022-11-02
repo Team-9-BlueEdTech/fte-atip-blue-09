@@ -1,11 +1,10 @@
 import React, { useRef, useMemo, useState } from "react"
 import '../../assets/styles/collab.css'
-import type { Option, QuestionArray } from "../../types/Questions"
+import type { Option, Question, QuestionArray} from "../../types/Questions"
 
 const Questions = () => {
   const [initalized, setInit] = useState<boolean>(false)
   const [questions, setQuestions] = useState<QuestionArray>([])
-  const [options, setOptions] = useState<Option[][]>([])
   const questionRef = useRef<HTMLInputElement>(null)
   const optionRef = useRef<HTMLInputElement>(null)
   async function fetchBaseQuestions(): Promise<void> {
@@ -54,10 +53,13 @@ const Questions = () => {
     const optionIndex = questions[questionIndex].options.findIndex(a => a.id == ids[1])
     setQuestions(prev => {
       prev[questionIndex].options = prev[questionIndex].options.filter(opt => opt.id != ids[1])
-      prev[questionIndex].options = prev[questionIndex].options.map((opt, i) => { if (i >= optionIndex) opt.id--; return opt })
+      prev[questionIndex].options.forEach((opt, i) => { if (i >= optionIndex) opt.id-- })
       console.log(prev)
       return prev
     })
+    // @ts-ignore
+    setQuestions(prev => [...prev, null])
+    setQuestions(prev => prev.filter(a => a ?? false))
     console.log(questions[questionIndex])
   }
 
@@ -65,12 +67,15 @@ const Questions = () => {
     e.preventDefault()
     const value = questionRef.current?.value
     if (!value) return;
-    const q: QuestionsInterface = {
+    const q: Question = {
       id: questions.length,
       text: value,
       options: []
     }
     setQuestions(prev => [...prev, q])
+    // @ts-ignore
+    setQuestions(prev => [...prev, null])
+    setQuestions(prev => prev.filter(a => a ?? false))
     questionRef.current.value = ''
   }
 
@@ -86,7 +91,7 @@ const Questions = () => {
   
   useMemo(() => {
     if (questions.length)
-      console.log(questions)
+      console.log("Questions:", questions)
   }, [questions])
 
   if (!initalized) fetchBaseQuestions()
@@ -94,7 +99,7 @@ const Questions = () => {
   return (
     <div>
       <h1>
-        Collab Page
+        Questions Page
       </h1>
       <div style={{ position: 'relative' }} className='container'>
         <form
