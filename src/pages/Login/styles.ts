@@ -9,68 +9,72 @@ export const Main = styled.div`
 `;
 
 export const Container = styled.div`
-  margin: 2.5% auto;
   display: flex;
   align-items: center;
-  width: 90%;
-  height: 90vh;
+  height: 100vh;
+  //background-color: #F6F6F6;
+  //background-color: #101227;
+  //background-color: #DBDEE3;
+  //background-color: #AA6CFF;
+
 `;
 
-export const Div = styled.div`
-  display: flex;
-  align-items: center;
-  width: 90%;
-  height: auto;
-  margin: 0 auto;
-  flex-wrap: wrap;
-  //border: 1px solid black;
-  padding-inline-start: 10%;
-  img {
-    width: 360px;
-    height: 200px;
-  }
-`;
-export const Modal = styled.div`
+
+export const ContainerModal = styled.div`
   display: flex;
   align-items: center;
   flex-direction: column;
   margin: 0 auto;
+  padding: 20px;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 8px;
   div {
-    background-color: #dcdcdc;
+    background-color: #ccc;
     height: 40px;
     padding: 10px;
     border-radius: 8px;
     margin: 25px 0;
   }
+  img {
+    width: 260px;
+    height: 100px;
+    margin: 60px 0 -40px 0;
+  }
 `;
-export const Form = styled.form`
-  margin: 50px 0 70px 0;
+export const ContainerModalForm = styled.form`
+  margin: 80px 0;
 `;
 export const Span = styled.span`
-  background-color: #dcdcdc;
+  background-color: #ccc;
   display: flex;
 
   input {
     width: 290px;
     padding: 2px;
-    background-color: #dcdcdc;
+    background-color: #ccc;
     margin: auto 0;
     outline: none;
   }
+  input:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0 30px #ccc inset;
+}
   .icon-react {
     margin-right: 10px;
   }
 `;
 
-export const Button = styled.button`
+/*export const Button = styled.button`
   padding: 10px;
   height: 40px;
-  width: 335px;
+  width: 100%;
+  margin-top: -10px;
   background-color: #aa6cff;
   border-radius: 8px;
-  box-shadow: 1px 1px 1px;
+  box-shadow: 0.5px 0.5px;
   cursor: pointer;
 `;
+*/
 
 
 export const ErrorMessage = styled.p`
@@ -78,4 +82,6 @@ export const ErrorMessage = styled.p`
     align-self: center;
     font-size: small;
     height: 1rem;
+    margin: -10px 0 25px 0;
+    max-width: 330px;
 `;

@@ -1,46 +1,27 @@
-import logo from '../../assets/images/logo-aTip.png';
-import './style.css'
-import { CgArrowLeftR } from 'react-icons/cg'
-import { useNavigate } from 'react-router-dom';
-
+import * as S from "./styles"
+import logo from "../../assets/images/image.png"
+import Button from "../../components/Button"
+import { usePartner } from "../../contexts/partner"
+import { useAuth } from "../../contexts/auth"
 
 const Header = () => {
-  
-  let Navigate = useNavigate();
 
-  const goToLogin = () => {
-    Navigate("/login");
-  }
-  
+  const { partner } = usePartner();
+  const { logout } = useAuth();
+
   return (
-    <header>
-      <section className='head'>
-        <div className='boxleft'>
-          <div>
-            <h3>
-              <img src={logo} alt="logo atip" className='header-logo'/>
-            </h3>
-            <div>
-              <CgArrowLeftR onClick={()=> Navigate("/profiles")}/>
-            </div>
-          </div>
-            <div className='fotouser'>
-            <img src={logo} alt="logo atip" className='header-logo'/>
-          </div>
-        </div>
-        <div className='boxright'>      
-          <div className='linksettings'>
-            <p onClick={goToLogin}>settings</p>
-          </div>
-          <div>
-            <img src={logo} alt="logo atip" className='header-logo'/>
-          </div>
-          <div>
-          
-          </div>
-        </div>
-      </section>
-    </header>
+    <S.Header>
+      <img src={logo} alt="Logo da empresa aTip"/>
+      <div>
+        <h2>
+          Jornada aTípica
+          {
+            partner && ` - ${partner.name}`
+          }
+        </h2>
+      </div>
+      <Button text="Sair" variant="cancel" onClick={() => logout()} />
+    </S.Header>
   )
 }
 

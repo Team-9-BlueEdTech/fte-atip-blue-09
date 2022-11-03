@@ -3,32 +3,45 @@ import Admin from './pages/Admin';
 import Collab from './pages/Collab';
 import Questions from './pages/Collab/questions';
 import Login from './pages/Login';
-import Partner from './pages/Partner';
 import Home from './pages/Home';
-import { useState } from "react";
-// import { useAuth } from './contexts/auth';
+import ChangePassPage from "./components/ChangePassword";
+import NewPartner from "./pages/Admin/NewPartner";
+import PartnerPage from "./pages/Partner";
+import { useAuth } from './contexts/auth';
+
 
 const Router = () => {
+  
+  const { logged, admin } = useAuth();
 
-  // const { logged } = useAuth();
-  const [logged, setLogged] = useState(true);
   return (
     <Routes>
-      {logged ? (
-        <>
-          <Route path="/" element={<Home />}></Route>
-          <Route path="/questions" element={<Questions />}></Route>
-          <Route path="/login" element={<Login />}></Route>
-          <Route path="/collab" element={<Collab />}></Route>
-          <Route path="/partner" element={<Partner />}></Route>
-          <Route path="/admin" element={<Admin />}></Route>
-        </>
-      ) : (
-        <Route path="/" element={<Login />} />
-      )}     
+      {
+        logged ? (
+          <>
+            <Route path="/census/:censusId" element={<PartnerPage />} />
+          <Route path="/census/:censusId/questions" element={<Questions />}></Route>
+            <Route path="/partner/:partnerId" element={<PartnerPage />} />
+            <Route path="/partner/:partnerId/firstlogin" element={<ChangePassPage />} />
+            {
+              admin &&
+              <>
+                <Route path="/admin" element={<Admin />} />
+                <Route path="/partner/new" element={<NewPartner />} />
+              </>
+            }
+          </>
+        ) : (
+          <>
+            <Route path="/" element={<Home />} />
+            <Route path="/login" element={<Login />} />
+            <Route path="/collab" element={<Collab />} />
+          </>
+        )
+      }
       <Route
         path="*"
-        element={<Navigate to={"/"} replace />}
+        element={<Navigate to={admin ? "/admin" : "/"} replace />}
       />
     </Routes>  
   )

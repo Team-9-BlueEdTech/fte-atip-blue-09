@@ -28,7 +28,7 @@ export const NavCloneaTip = styled.nav`
     border-radius: 6px;
     transition: all .5s;
     text-align: center;
-    font: 500 1rem Source Sans Pro, sans-serif;
+    font: 400 1rem Source Sans Pro, sans-serif;
     padding: 3px;
     border-radius: 6px;
     transition: all .5s;
@@ -57,5 +57,12 @@ export const NavCloneaTip = styled.nav`
     color: #5a19b4;
   }
 
+  button a {
+    color: white;
+  }
+
+  button a:hover {
+    color: white;
+  }
   
 `
