@@ -7,6 +7,7 @@ import { yupResolver } from "@hookform/resolvers/yup";
 import * as yup from "yup";
 import { useNavigate } from "react-router-dom";
 import api from "../../services/api";
+import { useAuth } from "../../contexts/auth";
 
 interface LoginData {
   email: string;
@@ -19,6 +20,8 @@ const emailSchema = yup.object().shape({
     .required("Campo de e-mail obrigatório"),
 });
 const NewPartner = () => {
+  const { admin } = useAuth()
+
   const navigate = useNavigate();
 
   const {
@@ -27,22 +30,25 @@ const NewPartner = () => {
     formState: { errors },
   } = useForm<LoginData>({ resolver: yupResolver(emailSchema) });
 
-  const handleLogin = () => {
-    api.post("/").then().catch();
+  const handleLogin = (e: React.FormEvent<HTMLFormElement>) => {
+    e.preventDefault()
+    api.post("/partner").then(console.log);
   };
   return (
     <>
       <Header />
       <S.MainDashboard>
-        <S.NavDashboard>
-          <Button
-            text="Voltar"
-            variant="add"
-            onClick={() => navigate("/admin")}
-          />
-        </S.NavDashboard>
+        { admin ?
+          <S.NavDashboard>
+            <Button
+              text="Voltar"
+              variant="add"
+              onClick={() => navigate("/admin")}
+            />
+          </S.NavDashboard>
+        : null }
         <S.DivDashboardNewPartner>
-          <S.DivDashboardForm onSubmit={handleSubmit(handleLogin)}>
+          <S.DivDashboardForm onSubmit={handleLogin}>
             <Input
               inputSize="x-large"
               placeholder="E-mail"

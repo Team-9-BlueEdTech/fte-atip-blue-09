@@ -7,12 +7,14 @@ import { yupResolver } from "@hookform/resolvers/yup";
 import { useAuth } from "../../contexts/auth";
 import api from "../../services/api";
 import * as yup from "yup";
+import { redirect, useNavigate } from 'react-router-dom'
 import { useForm } from "react-hook-form";
 
 interface LoginData {
   email: string;
   password: string;
 }
+
 const loginSchema = yup.object().shape({
   email: yup
     .string()
@@ -30,6 +32,7 @@ const loginSchema = yup.object().shape({
 });
 
 const Login = () => {
+  const navigate = useNavigate()
   const { login } = useAuth();
   const {
     register,
@@ -77,6 +80,7 @@ const Login = () => {
             <Button text="Entrar" variant="login-size" type="submit"/>
           </Styled.ContainerModalForm>
           <h2>Sua empresa ainda não possui cadastro?</h2>
+          <Button text="Registrar" variant="login-size" onClick={() => navigate("/partner/new")} />
         </Styled.ContainerModal>
       </Styled.Container>
     </Styled.Main>

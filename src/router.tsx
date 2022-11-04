@@ -8,6 +8,7 @@ import NewPartner from "./pages/Admin/NewPartner";
 import PartnerPage from "./pages/Partner";
 import { useAuth } from './contexts/auth';
 import Questions from './pages/Questions';
+import PartnerListing from './components/CardPartner/partner';
 
 
 const Router = () => {
@@ -17,32 +18,32 @@ const Router = () => {
   return (
     <Routes>
       {
-        logged ? (
+        logged && (
           <>
             <Route path="/census/:censusId" element={<PartnerPage />} />
-          <Route path="/census/:censusId/questions" element={<Questions />}></Route>
+            <Route path="/census/:censusId/questions" element={<Questions />}/>
             <Route path="/partner/:partnerId" element={<PartnerPage />} />
             <Route path="/partner/:partnerId/firstlogin" element={<ChangePassPage />} />
             {
               admin &&
               <>
+                <Route path='/partner' element={<PartnerListing />}/>
                 <Route path="/admin" element={<Admin />} />
-                <Route path="/partner/new" element={<NewPartner />} />
               </>
             }
           </>
-        ) : (
+        )
+      }
           <>
+            <Route path="/partner/new" element={<NewPartner />} />
             <Route path="/" element={<Home />} />
             <Route path="/login" element={<Login />} />
             <Route path="/collab" element={<Collab />} />
           </>
-        )
-      }
-      <Route
+      {/* <Route
         path="*"
         element={<Navigate to={admin ? "/admin" : "/"} replace />}
-      />
+      /> */}
     </Routes>  
   )
 }

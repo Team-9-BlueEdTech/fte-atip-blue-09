@@ -16,7 +16,7 @@ const Admin = () => {
 
   const { setPartner } = usePartner();
 
-  const [partnersList, setPartnersList] = useState<PartnerIndex[] | undefined>(undefined);
+  const [partnersList, setPartnersList] = useState<PartnerIndex[]>([]);
   const [search, setSearch] = useState<string>("");
   const [showFilter, setShowFilter] = useState<boolean>(false);
 
@@ -46,7 +46,7 @@ const Admin = () => {
 
   const setFilter = (filter: string) => {
 
-    let sortedList: PartnerIndex[] | undefined;
+    let sortedList: PartnerIndex[] = [];
 
     if (filter === "A") {
       sortedList = partnersList?.sort((a, b) => {

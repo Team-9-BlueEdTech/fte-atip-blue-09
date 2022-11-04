@@ -1,6 +1,5 @@
 import { useRef, useMemo, useState, DragEvent, FormEvent } from "react"
 import '../../assets/styles/collab.css'
-import Header from "../../components/Header/index";
 
 const Collab = () => {
   const [dragActive, setDrag] = useState<boolean>(true)

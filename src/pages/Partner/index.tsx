@@ -10,13 +10,14 @@ import EmailListing from "../../components/ListingEmail";
 import QuestionsList from "../../components/ListingQuestions";
 import CensusDashboard from "../../components/CensusDashboard";
 import { useAuth } from "../../contexts/auth";
+import api from "../../services/api";
 
 const PartnerPage = () => {
 
   const navigate = useNavigate();
 
   const { partnerId, censusId } = useParams();
-  const { admin } = useAuth();
+  const { admin, logged } = useAuth();
   const { partner, getPartnerById } = usePartner();
   const { getCensusById, getAnswersByCensusId } = useCensus();
 
@@ -51,6 +52,24 @@ const PartnerPage = () => {
                 <Button variant="add"
                   text="⬅ Voltar para Lista"
                   onClick={() => navigate("/admin")}
+                />
+            }
+            {
+              (logged) &&
+                <Button variant="add"
+                  text="Atualizar dados"
+                  onClick={() => navigate("/update")} // TODO: fazer pagina de update
+                />
+            }
+            {
+              admin &&
+                <Button variant="add"
+                  text="Deletar empresa"
+                  onClick={() => {
+                    api.delete(`/partner/${partnerId}`)
+                      .then(() => navigate('/admin'))
+                    // TODO: fazer verificação de retorno
+                  }}
                 />
             }
           </div>
