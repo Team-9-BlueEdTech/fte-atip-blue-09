@@ -1,13 +1,13 @@
 import { Routes, Route, Navigate } from 'react-router-dom';
 import Admin from './pages/Admin';
 import Collab from './pages/Collab';
-import Questions from './pages/Collab/questions';
 import Login from './pages/Login';
 import Home from './pages/Home';
 import ChangePassPage from "./components/ChangePassword";
 import NewPartner from "./pages/Admin/NewPartner";
 import PartnerPage from "./pages/Partner";
 import { useAuth } from './contexts/auth';
+import Questions from './pages/Questions';
 
 
 const Router = () => {
