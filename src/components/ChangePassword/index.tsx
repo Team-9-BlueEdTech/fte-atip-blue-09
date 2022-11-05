@@ -24,7 +24,7 @@ const changePasswordSchema = yup.object().shape({
 
   confirmPassword: yup
     .string()
-    .min(8, "Reescreva sua senha neste campo.")
+    .min(8, "A senha e a confirmação devem ser iguais")
     .when("password", (password: string, field: any) =>
       password ? field.required().oneOf([yup.ref("password")]) : field
     ),
@@ -44,10 +44,12 @@ const ChangePassPage = () => {
     api
       .patch(`partner/${partnerId}`, data)
       .then((res) => {
+        console.log(res.data);
+        
         navigate("/login");
       })
-      .catch(() => {
-        console.log("Senha inválida.");
+      .catch((e) => {
+        console.error("Erro", e);
       });
   };
 
@@ -62,7 +64,11 @@ const ChangePassPage = () => {
             type="password"
             {...register("password")}
           />
-          <input placeholder="Confirmação de senha" type="confirmPassword" />
+          <input
+            placeholder="Confirmação de senha"
+            type="password"
+            {...register("confirmPassword")}          
+          />
           <S.ErrorMessage>
             {errors.confirmPassword?.message || errors.password?.message}
           </S.ErrorMessage>

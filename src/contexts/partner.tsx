@@ -24,8 +24,8 @@ export const PartnerProvider = ({ children }: PartnerProviderProps) => {
       .then((res) => {        
         setPartner(res.data)
       })
-      .catch((error) => {
-        alert("Desculpe, ocorreu algum erro")
+      .catch((e) => {
+        console.error(e)
       })
   };
 

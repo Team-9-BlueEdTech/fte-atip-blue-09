@@ -10,28 +10,20 @@ export const MainDiv = styled.main`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-
+  gap: 2rem;
 
 `
 export const FormChangePassword = styled.form`
 
-height: 30vh;
-align-items: center;
-display: flex;
-flex-direction: column;
-margin: 20px 0 0 0 ;
-
-input {
-  margin: 10px;
-}
+  width: 30vw;
+  display: flex;
+  flex-direction: column;
 
 `
 
 export const ErrorMessage = styled.p`
-color: red;
-align-self: center;
-font-size: small;
-height: 1rem;
-margin: 10px 0 25px 0;
-max-width: 330px;
+
+  color: red;
+  font-size: small;
+
 `;

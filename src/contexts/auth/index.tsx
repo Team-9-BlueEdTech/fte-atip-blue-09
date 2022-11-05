@@ -47,7 +47,7 @@ export const AuthProvider = ({ children }: AuthProviderProps) => {
       setAdmin(true);
       navigate("/admin");
     } else {
-      navigate(`/partner/${user.id}${user.firstLogin && "/firstlogin"}`);
+      navigate(`/partner/${user.id}${user.firstLogin ? "/firstlogin" : ""}`);
     }
   };
 
@@ -76,7 +76,7 @@ export const AuthProvider = ({ children }: AuthProviderProps) => {
           setAdmin(true);
           navigate("/admin");
         } else {
-          navigate(`/partner/${res.data.id}${res.data.firstLogin && "/firstlogin"}`)
+          navigate(`/partner/${res.data.id}${res.data.firstLogin ? "/firstlogin" : ""}`)
         }
       })
       .catch((e) => {
