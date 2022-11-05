@@ -47,14 +47,14 @@ const Admin = () => {
 
     let sortedList: PartnerIndex[] = [];
 
-    if (filter === "A") {
+    if (filter === "Z") {
       sortedList = partnersList?.sort((a, b) => {
         if (b.name > a.name) return -1;
         if (b.name < a.name) return 1;
         return 0;
       })
     }
-    if (filter === "Z") {
+    if (filter === "A") {
       sortedList = partnersList?.sort((a, b) => {
         if (b.name > a.name) return 1;
         if (b.name < a.name) return -1;

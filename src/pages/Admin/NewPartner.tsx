@@ -55,12 +55,26 @@ const NewPartner = () => {
           />
         </S.NavDashboard>
         <S.DivDashboard>
-          <form onSubmit={handleSubmit(handleLogin)}>
-            <input {...register("email")} />
-            <input {...register("name")} />
-            <input {...register("logo")} />
-            <Button type="submit" text="Enviar" />
-          </form>
+          <S.FormNewPartner onSubmit={handleSubmit(handleLogin)}>
+            <label htmlFor="email">Email:</label>
+            <input id="email" {...register("email")} />
+            <label htmlFor="name">Nome da Empresa:</label>
+            <input id="name" {...register("name")} />
+            <label htmlFor="logo">Insira um URL da logo:</label>
+            <input id="logo" {...register("logo")} />
+            <S.ErrorMessage>
+              {
+                errors.email?.message ||
+                errors.name?.message ||
+                errors.logo?.message
+              }
+            </S.ErrorMessage>
+            <Button
+              variant="login-size"
+              type="submit"
+              text="Enviar"
+            />
+          </S.FormNewPartner>
         </S.DivDashboard>
       </S.MainDashboard>
     </>

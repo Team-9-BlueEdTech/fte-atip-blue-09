@@ -13,7 +13,7 @@ const CensusPage = () => {
 
   return(
     <S.CensusDashboard>
-      {
+      {/* {
         partner?.census.map
         ((census, index) => 
           <S.CensusCard
@@ -23,7 +23,7 @@ const CensusPage = () => {
             <h2>{census.createdAt}</h2>
           </S.CensusCard>
         )
-      }
+      } */}
       <S.CensusCard
         onClick={() => {
           //DEVELOP api trigger /census/new/${partner.id}

@@ -27,6 +27,14 @@ export const DivDashboard = styled.div`
 
   overflow: auto;
   overflow-x: hidden;
+
+`;
+
+export const FormNewPartner = styled.form`
+
+  width: 80%;
+  margin: auto;
+
 `;
 
 export const FilterDashboard = styled.div`
@@ -45,3 +53,11 @@ export const FilterDashboard = styled.div`
   right: 0;
 `;
 
+export const ErrorMessage = styled.p`
+color: red;
+align-self: center;
+font-size: small;
+height: 1rem;
+margin: -10px 0 25px 0;
+max-width: 330px;
+`;
