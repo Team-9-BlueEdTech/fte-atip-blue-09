@@ -39,7 +39,7 @@ export const AuthProvider = ({ children }: AuthProviderProps) => {
   const login = ({ token, user }: LoginParams) => {
 
     localStorage.setItem("token", token);
-    localStorage.setItem("user", JSON.stringify(user));
+    // localStorage.setItem("user", JSON.stringify(user));
     setLogged(true);
     swal("Login bem sucedido!");
 
