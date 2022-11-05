@@ -17,7 +17,7 @@ const CensusPage = () => {
         partner?.census.map
         ((census, index) => 
           <S.CensusCard
-          key={index}
+            key={index}
             onClick={() => navigate(`/census/${census.id}`)}
           >
             <h2>{census.createdAt}</h2>
@@ -26,10 +26,10 @@ const CensusPage = () => {
       }
       <S.CensusCard
         onClick={() => {
-          //DEVELOP api trigger /census/new
+          //DEVELOP api trigger /census/new/${partner.id}
           setSpinner(true)
           
-          //DEVELOP api get partner then:              
+          //then: getPartnerById
           setTimeout(() => {
             setSpinner(false)
           }, 3000)

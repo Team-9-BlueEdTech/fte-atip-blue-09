@@ -58,11 +58,10 @@ export const StyledButton = styled.button<StyledButtonProps>`
       width: 3rem;
       min-width: 3rem;
     `}
+    
     ${variant === "login-size" &&
     css`
-      height: 40px;
       width: 100%;
-      border-radius: 8px;
     `}
   `}
 `;

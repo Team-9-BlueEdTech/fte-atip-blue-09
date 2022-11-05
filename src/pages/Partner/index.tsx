@@ -17,7 +17,9 @@ const PartnerPage = () => {
   const navigate = useNavigate();
 
   const { partnerId, censusId } = useParams();
-  const { admin, logged } = useAuth();
+  console.log(partnerId, censusId);
+  
+  const { admin } = useAuth();
   const { partner, getPartnerById } = usePartner();
   const { getCensusById, getAnswersByCensusId } = useCensus();
 
@@ -54,24 +56,6 @@ const PartnerPage = () => {
                   onClick={() => navigate("/admin")}
                 />
             }
-            {
-              (logged) &&
-                <Button variant="add"
-                  text="Atualizar dados"
-                  onClick={() => navigate("/update")} // TODO: fazer pagina de update
-                />
-            }
-            {
-              admin &&
-                <Button variant="add"
-                  text="Deletar empresa"
-                  onClick={() => {
-                    api.delete(`/partner/${partnerId}`)
-                      .then(() => navigate('/admin'))
-                    // TODO: fazer verificação de retorno
-                  }}
-                />
-            }
           </div>
           <S.SideBarMiddle>
             {
@@ -96,6 +80,24 @@ const PartnerPage = () => {
                 </>
               :
                 <h1>Escolha ou Adicione um Censo ➡</h1>
+            }
+            {
+              partnerId &&
+                <Button
+                  text="Atualizar dados"
+                  onClick={() => navigate("/update")} // TODO: fazer pagina de update
+                />
+            }
+            {
+              partnerId && admin &&
+                <Button variant="cancel"
+                  text="Deletar empresa"
+                  onClick={() => {
+                    api.delete(`/partner/${partnerId}`)
+                      .then(() => navigate('/admin'))
+                    // TODO: fazer verificação de retorno
+                  }}
+                />
             }
           </S.SideBarMiddle>
           <S.SideBarCard>

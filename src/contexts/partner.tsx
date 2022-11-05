@@ -1,6 +1,7 @@
 import { createContext, Dispatch, ReactNode, SetStateAction, useContext, useState } from "react";
 import { Partner } from "../types";
 import { MockedPartner } from "../mocks/route-partner-id";
+import api from "../services/api";
 
 interface PartnerProviderProps {
   children: ReactNode;
@@ -18,9 +19,14 @@ export const PartnerProvider = ({ children }: PartnerProviderProps) => {
 
   const [ partner, setPartner ] = useState<Partner>();
 
-  const getPartnerById = (partnerId: string) => {
-    //api.get by partnerId
-    setPartner(MockedPartner)
+  const getPartnerById = async (partnerId: string) => {
+    await api.get(`/partner/${partnerId}`)
+      .then((res) => {        
+        setPartner(res.data)
+      })
+      .catch((error) => {
+        alert("Desculpe, ocorreu algum erro")
+      })
   };
 
   return (

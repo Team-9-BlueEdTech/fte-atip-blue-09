@@ -2,10 +2,9 @@ import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import Button from "../../components/Button";
 import Header from "../../components/Header";
-import Input from "../../components/Input";
 import PartnerList from "../../components/CardPartner/partner";
 import { usePartner } from "../../contexts/partner";
-import { MockedPartnerList } from "../../mocks/route-admin-partners";
+// import { MockedPartnerList } from "../../mocks/route-admin-partners";
 import { PartnerIndex } from "../../types";
 import * as S from "./styles";
 import api from "../../services/api";
@@ -24,7 +23,7 @@ const Admin = () => {
     api.
       get('/partner')
       .then((res) => {
-        setPartnersList(res.data);        
+        setPartnersList(res.data);
       })
       .catch((error) => {
         console.error(error);
@@ -83,8 +82,7 @@ const Admin = () => {
           <Button variant="add" text="Cadastrar"
             onClick={() => navigate("/partner/new")}  
           />
-          <Input type="text"
-            inputSize="large"
+          <input type="text"
             placeholder="🔎  Digite o nome de uma empresa"
             onChange={(e) => setSearch(e.target.value)}
           />

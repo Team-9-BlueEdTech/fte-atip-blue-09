@@ -8,8 +8,6 @@ import NewPartner from "./pages/Admin/NewPartner";
 import PartnerPage from "./pages/Partner";
 import { useAuth } from './contexts/auth';
 import Questions from './pages/Questions';
-import PartnerListing from './components/CardPartner/partner';
-
 
 const Router = () => {
   
@@ -27,23 +25,19 @@ const Router = () => {
             {
               admin &&
               <>
-                <Route path='/partner' element={<PartnerListing />}/>
                 <Route path="/admin" element={<Admin />} />
+                <Route path="/partner/new" element={<NewPartner /> } />
               </>
             }
           </>
         )
       }
-          <>
-            <Route path="/partner/new" element={<NewPartner />} />
-            <Route path="/" element={<Home />} />
-            <Route path="/login" element={<Login />} />
-            <Route path="/collab" element={<Collab />} />
-          </>
-      {/* <Route
-        path="*"
-        element={<Navigate to={admin ? "/admin" : "/"} replace />}
-      /> */}
+      <>
+        <Route path="/" element={<Home />} />
+        <Route path="/login" element={<Login />} />
+        <Route path="/collab" element={<Collab />} />
+        <Route path="*" element={<Navigate to={admin ? "/admin" : "/"} replace />} />
+      </>      
     </Routes>  
   )
 }

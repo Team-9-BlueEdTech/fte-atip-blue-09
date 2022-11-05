@@ -32,7 +32,6 @@ const loginSchema = yup.object().shape({
 });
 
 const Login = () => {
-  const navigate = useNavigate()
   const { login } = useAuth();
   const {
     register,
@@ -56,34 +55,28 @@ const Login = () => {
   };
 
   return (
-    <Styled.Main>
-      <Styled.Container>
-        <Styled.ContainerModal>
-          <h1>Login Empresa Parceira</h1>
-          <img src={logo} alt="" />
-          <Styled.ContainerModalForm onSubmit={handleSubmit(handleLogin)}>
-            <div>
-              <Styled.Span>
-                <HiOutlineMail className="icon-react" />
-                <input {...register("email")} />
-              </Styled.Span>
-            </div>
-            <div>
-              <Styled.Span>
-                <RiLockPasswordLine className="icon-react" />
-                <input type="password" {...register("password")} />
-              </Styled.Span>
-            </div>
-            <Styled.ErrorMessage>
-              {errors.email?.message || errors.password?.message}
-            </Styled.ErrorMessage>
-            <Button text="Entrar" variant="login-size" type="submit"/>
-          </Styled.ContainerModalForm>
-          <h2>Sua empresa ainda não possui cadastro?</h2>
-          <Button text="Registrar" variant="login-size" onClick={() => navigate("/partner/new")} />
-        </Styled.ContainerModal>
-      </Styled.Container>
-    </Styled.Main>
+    <Styled.Container>
+      <Styled.ContainerModal>
+        <h1>Login Empresa Parceira</h1>
+        <img src={logo} alt="" />
+        <form onSubmit={handleSubmit(handleLogin)}>
+          {/* <HiOutlineMail /> */}
+          <input {...register("email")}
+            placeholder="E-mail"
+          />
+          {/* <RiLockPasswordLine /> */}
+          <input type="password" {...register("password")}
+            placeholder="Senha"
+          />
+          <Styled.ErrorMessage>
+            {errors.email?.message || errors.password?.message}
+          </Styled.ErrorMessage>
+          <Button text="Entrar" variant="login-size" type="submit"/>
+        </form>
+        <h2>Sua empresa ainda não possui cadastro?</h2>
+      </Styled.ContainerModal>
+    </Styled.Container>
+
   );
 };
 

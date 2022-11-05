@@ -5,7 +5,6 @@ import { usePartner } from "../../contexts/partner";
 import api from "../../services/api";
 import Button from "../Button";
 import Header from "../Header";
-import Input from "../Input";
 import * as S from "./styles";
 import * as yup from "yup";
 
@@ -58,12 +57,12 @@ const ChangePassPage = () => {
       <S.MainDiv>
         <h1>Mudar senha</h1>
         <S.FormChangePassword onSubmit={handleSubmit(handleChangePassword)}>
-          <Input
+          <input
             placeholder="Nova Senha"
             type="password"
             {...register("password")}
           />
-          <Input placeholder="Confirmação de senha" type="confirmPassword" />
+          <input placeholder="Confirmação de senha" type="confirmPassword" />
           <S.ErrorMessage>
             {errors.confirmPassword?.message || errors.password?.message}
           </S.ErrorMessage>

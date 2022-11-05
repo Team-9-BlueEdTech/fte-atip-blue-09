@@ -29,11 +29,6 @@ export const DivDashboard = styled.div`
   overflow-x: hidden;
 `;
 
-export const DivDashboardNewPartner = styled(DivDashboard)`
-    display: flex;
-    align-items: center;
-    justify-content: center;
-`;
 export const FilterDashboard = styled.div`
   width: 20rem;
   height: 5rem;
@@ -50,22 +45,3 @@ export const FilterDashboard = styled.div`
   right: 0;
 `;
 
-export const DivDashboardForm = styled.form`
-    width: 30rem;
-    height: 10rem;
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-    
-    .inputText::placeholder{
-      display: flex;
-      text-align: center;
-      font-size: 1.2rem;
-    }
-    .inputText:-webkit-autofill {
-    -webkit-box-shadow: 0 0 0 30px #ccc inset;
-}
-    .inputText:focus{
-      outline: none;
-    }
-`;
