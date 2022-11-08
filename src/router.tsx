@@ -10,7 +10,6 @@ import { useAuth } from './contexts/auth';
 import Questions from './pages/Questions';
 
 const Router = () => {
-  
   const { logged, admin } = useAuth();
 
   return (
@@ -19,12 +18,12 @@ const Router = () => {
         logged && (
           <>
             <Route path="/census/:censusId" element={<PartnerPage />} />
-            <Route path="/census/:censusId/questions" element={<Questions />}/>
             <Route path="/partner/:partnerId" element={<PartnerPage />} />
             <Route path="/partner/:partnerId/firstlogin" element={<ChangePassPage />} />
             {
               admin &&
               <>
+                <Route path="/admin/questions" element={<Questions />}/>
                 <Route path="/admin" element={<Admin />} />
                 <Route path="/partner/new" element={<NewPartner /> } />
               </>

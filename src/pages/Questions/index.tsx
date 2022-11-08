@@ -1,12 +1,14 @@
 import React, { useRef, useMemo, useState } from "react"
 import '../../assets/styles/collab.css'
-import type { Option, Question, QuestionArray} from "../../types/Questions"
+import type { Option, OptionArray, Question, QuestionArray, QuestionIndex} from "../../types/Questions"
 
 const Questions = () => {
   const [initalized, setInit] = useState<boolean>(false)
   const [questions, setQuestions] = useState<QuestionArray>([])
+  const [options, setOptions] = useState<OptionArray[]>([])
   const questionRef = useRef<HTMLInputElement>(null)
-  const optionRef = useRef<HTMLInputElement>(null)
+  const questionIDRef = useRef<HTMLInputElement>(null)
+  const optionsValueRef = useRef<HTMLInputElement>(null)
   async function fetchBaseQuestions(): Promise<void> {
     const baseQuestions = await Promise.resolve([
         {
@@ -36,63 +38,90 @@ const Questions = () => {
           ]
         }
       ])
-    setQuestions(baseQuestions)
+    const qs: QuestionArray = []
+    const opts: OptionArray[] = baseQuestions.map(q => {
+      const max = Math.max(...options.map(o => o[0]))
+      const index = isFinite(max) ? max : 2;
+      console.log('index', index, options.map(o => o[0]))
+      const o: OptionArray = [index, q.options]
+      qs.push({ id: q.id, text: q.text, options: index })
+      return o;
+    })
+    setOptions(opts)
+    setQuestions(qs)
     setInit(true)
   }
 
   const removeQuestion = (e: React.MouseEvent<HTMLButtonElement, MouseEvent>): void => {
     const target = e.target as HTMLButtonElement
-    setQuestions(prev => prev.filter(item => item.id != Number(target.value)))
+    const id = Number(target.value)
+    const index = questions.findIndex(q => q.id === id)
+    const qid = questions[index].id
+    setQuestions(prev => prev.filter(item => item.id != id))
+    setOptions(prev => prev.filter(item => item[0] != qid))
+    console.log('Removed QUESTION')
   }
 
   const removeOption = (e: React.MouseEvent<HTMLButtonElement, MouseEvent>): void => {
+    e.preventDefault();
     const target = e.target as HTMLButtonElement;
     const ids: [number, number] = target.value.split(',').map(Number) as [number, number]
     console.log(ids)
     const questionIndex = questions.findIndex(a => a.id == ids[0])
-    const optionIndex = questions[questionIndex].options.findIndex(a => a.id == ids[1])
-    setQuestions(prev => {
-      prev[questionIndex].options = prev[questionIndex].options.filter(opt => opt.id != ids[1])
-      prev[questionIndex].options.forEach((opt, i) => { if (i >= optionIndex) opt.id-- })
-      console.log(prev)
-      return prev
+    const optionsIndex = questions[questionIndex].options
+    setOptions(prev => {
+      return prev.map(item => {
+        if (item[0] == optionsIndex)
+          item[1] = item[1].filter(item => item.id != ids[1])
+        return item
+      })
     })
-    // @ts-ignore
-    setQuestions(prev => [...prev, null])
-    setQuestions(prev => prev.filter(a => a ?? false))
-    console.log(questions[questionIndex])
+    console.log('Removed OPTION')
   }
 
   const createQuestion = (e: React.FormEvent<HTMLFormElement>): void => {
     e.preventDefault()
     const value = questionRef.current?.value
     if (!value) return;
-    const q: Question = {
-      id: questions.length,
+    const max = Math.max(...options.map(o => o[0]))
+    const id = isFinite(max) ? max : 2;
+    console.log('createQuestion', id, options)
+    const q: QuestionIndex = {
+      id: questions.length +1,
       text: value,
-      options: []
+      options: id
     }
+    const o: OptionArray = [id, []]
     setQuestions(prev => [...prev, q])
-    // @ts-ignore
-    setQuestions(prev => [...prev, null])
-    setQuestions(prev => prev.filter(a => a ?? false))
-    questionRef.current.value = ''
+    setOptions(prev => [...prev, o])
+    console.log('Created QUESTION')
   }
 
   const createOption = (e: React.FormEvent<HTMLFormElement>): void => {
-    e.preventDefault()
-    const value = optionRef.current?.value
+    e.preventDefault();
+    const id = questionIDRef.current?.value;
+    const value = optionsValueRef.current?.value;
+    console.log(id, value)
     if (!value) return
-    const o: Option = {
-      id: 0,
-      text: value,
-    }
+    const questionIndex = questions.findIndex(a => a.id == Number(id));
+    const optIndex = questions[questionIndex].options;
+    setOptions(prev => {
+      const index = prev.findIndex(a => a[0] == optIndex);
+      prev[index][1].push({
+        id: prev[index][1].length,
+        text: value,
+      });
+      return prev;
+    })
+    console.log('Created OPTION')
   }
   
   useMemo(() => {
-    if (questions.length)
+    if (questions.length) {
       console.log("Questions:", questions)
-  }, [questions])
+      console.log("Options:", options)
+    }
+  }, [questions, options])
 
   if (!initalized) fetchBaseQuestions()
 
@@ -120,14 +149,17 @@ const Questions = () => {
               >
                 <ol>
                   {
-                    i.options.map(o => 
+                    options[options.findIndex(a => a[0] == i.options)][1].map(o => 
                       <li key={`${i.id}/${o.id}`}>
-                          <span>{o.id} - </span>
-                          <span>{o.text}<button onClick={removeOption} value={[i.id, o.id].map(String)}> X </button></span>
+                          <span>// {i.id}/{o.id} - </span>
+                          { //! Por algum motivo, a função `removeOption` está sendo executada ao dar submit ao form
+                            <span>{o.text}<button onClick={removeOption} value={[i.id, o.id].map(String)}> X </button></span>
+                          }
                       </li>
                     )
                   }
-                  <input ref={optionRef} type='text' placeholder={'Create a option'} disabled={!initalized} />
+                  <input ref={questionIDRef} type='number' value={i.id} readOnly style={{ display: 'none' }} />
+                  <input ref={optionsValueRef} type='text' placeholder={'Create a option'} disabled={!initalized}/>
                   <button type="submit">Add</button>
                 </ol>
               </form>

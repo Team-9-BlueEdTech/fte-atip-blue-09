@@ -9,4 +9,11 @@ export interface Option {
   text: string
 }
 
-export type QuestionArray = Question[]
+export interface QuestionIndex {
+  id: number
+  text: string
+  options: number
+}
+
+export type QuestionArray = QuestionIndex[]
+export type OptionArray = [number, Option[]]
