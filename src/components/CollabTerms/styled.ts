@@ -5,7 +5,7 @@ export const MainTerm= styled.main`
 `
 
 export const DivInclude = styled.div`
-margin: 10rem 0 0 8rem;
+margin: 11rem 0 0 8rem;
 `
 export const H1 = styled.h1`
 width: 60px;
@@ -20,13 +20,15 @@ margin: 10px 3.6rem;
 `
 
 export const Article = styled.div`
-height: 55vh ;
+height: 83vh ;
+width: 60vw;
 background-color: #E9E9E9;
 border-radius: 0.5em;
-margin: 8rem;
+margin-top: 1.5rem;
+margin-left: 7rem;
 padding: 10px;
 div{
-margin: 8rem;
+margin: 2rem 20rem;
 }
 `
 
