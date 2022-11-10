@@ -1,175 +1,218 @@
-import React, { useRef, useMemo, useState } from "react"
-import '../../assets/styles/collab.css'
-import type { Option, OptionArray, Question, QuestionArray, QuestionIndex} from "../../types/Questions"
+import { useState, useEffect, useRef } from "react";
+import api from "../../services/api";
+import type { QuestionSubmit, Option, QuestionElement, QuestionMap } from "../../types/Questions";
 
-const Questions = () => {
-  const [initalized, setInit] = useState<boolean>(false)
-  const [questions, setQuestions] = useState<QuestionArray>([])
-  const [options, setOptions] = useState<OptionArray[]>([])
-  const questionRef = useRef<HTMLInputElement>(null)
-  const questionIDRef = useRef<HTMLInputElement>(null)
-  const optionsValueRef = useRef<HTMLInputElement>(null)
-  async function fetchBaseQuestions(): Promise<void> {
-    const baseQuestions = await Promise.resolve([
-        {
-          id: 1,
-          text: "Qual sua faixa etária?",
-          options: [
-            {
-              id: 1,
-              text: '13 a 21 anos'
-            },
-            {
-              id: 2,
-              text: '22 a 35 anos'
-            },
-            {
-              id: 3,
-              text: '36 a 55 anos'
-            },
-            {
-              id: 4,
-              text: '56 a 80 anos'
-            },
-            {
-              id: 5,
-              text: 'mais de 80 anos'
-            }
-          ]
-        }
-      ])
-    const qs: QuestionArray = []
-    const opts: OptionArray[] = baseQuestions.map(q => {
-      const max = Math.max(...options.map(o => o[0]))
-      const index = isFinite(max) ? max : 2;
-      console.log('index', index, options.map(o => o[0]))
-      const o: OptionArray = [index, q.options]
-      qs.push({ id: q.id, text: q.text, options: index })
-      return o;
+const Question = ({ id, removeQuestion, onChange, isEditable, label, obs }: QuestionElement): JSX.Element => {
+  const [title, setTitle] = useState<string>("")
+  const [options, setOptions] = useState<Option[]>([])
+  const [editable, setEditable] = useState<boolean>(isEditable)
+  const [questionLabel, setLabel] = useState<string>(label)
+  const [questionObs, setObs] = useState<string>(obs)
+  const optionRef = useRef<HTMLInputElement>(null)
+
+  useEffect(() => {
+    onChange(prev => {
+      const index = prev.findIndex(opt => opt.id === id)
+      prev[index].text = title
+      prev[index].wasEdited = true
+      return [...prev]
     })
-    setOptions(opts)
-    setQuestions(qs)
-    setInit(true)
-  }
+  }, [title])
 
-  const removeQuestion = (e: React.MouseEvent<HTMLButtonElement, MouseEvent>): void => {
-    const target = e.target as HTMLButtonElement
-    const id = Number(target.value)
-    const index = questions.findIndex(q => q.id === id)
-    const qid = questions[index].id
-    setQuestions(prev => prev.filter(item => item.id != id))
-    setOptions(prev => prev.filter(item => item[0] != qid))
-    console.log('Removed QUESTION')
-  }
-
-  const removeOption = (e: React.MouseEvent<HTMLButtonElement, MouseEvent>): void => {
-    e.preventDefault();
-    const target = e.target as HTMLButtonElement;
-    const ids: [number, number] = target.value.split(',').map(Number) as [number, number]
-    console.log(ids)
-    const questionIndex = questions.findIndex(a => a.id == ids[0])
-    const optionsIndex = questions[questionIndex].options
-    setOptions(prev => {
-      return prev.map(item => {
-        if (item[0] == optionsIndex)
-          item[1] = item[1].filter(item => item.id != ids[1])
-        return item
-      })
+  useEffect(() => {
+    onChange(prev => {
+      const index = prev.findIndex(opt => opt.id === id)
+      prev[index].options = options
+      prev[index].wasEdited = true
+      return [...prev]
     })
-    console.log('Removed OPTION')
-  }
+  }, [options])
 
-  const createQuestion = (e: React.FormEvent<HTMLFormElement>): void => {
+  useEffect(() => {
+    onChange(prev => {
+      const index = prev.findIndex(opt => opt.id === id)
+      prev[index].isEditable = editable
+      prev[index].wasEdited = true
+      return [...prev]
+    })
+  }, [editable])
+
+  useEffect(() => {
+    onChange(prev => {
+      const index = prev.findIndex(opt => opt.id === id)
+      prev[index].label = questionLabel
+      prev[index].wasEdited = true
+      return [...prev]
+    })
+  }, [questionLabel])
+
+  useEffect(() => {
+    onChange(prev => {
+      const index = prev.findIndex(opt => opt.id === id)
+      prev[index].obs = questionObs
+      prev[index].wasEdited = true
+      return [...prev]
+    })
+  }, [questionObs])
+
+  function handleEditable(e: React.ChangeEvent<HTMLInputElement>): void {
     e.preventDefault()
-    const value = questionRef.current?.value
-    if (!value) return;
-    const max = Math.max(...options.map(o => o[0]))
-    const id = isFinite(max) ? max : 2;
-    console.log('createQuestion', id, options)
-    const q: QuestionIndex = {
-      id: questions.length +1,
-      text: value,
-      options: id
-    }
-    const o: OptionArray = [id, []]
-    setQuestions(prev => [...prev, q])
-    setOptions(prev => [...prev, o])
-    console.log('Created QUESTION')
+    setEditable(e.target.checked)
   }
-
-  const createOption = (e: React.FormEvent<HTMLFormElement>): void => {
-    e.preventDefault();
-    const id = questionIDRef.current?.value;
-    const value = optionsValueRef.current?.value;
-    console.log(id, value)
-    if (!value) return
-    const questionIndex = questions.findIndex(a => a.id == Number(id));
-    const optIndex = questions[questionIndex].options;
+  function handleLabel(e: React.ChangeEvent<HTMLInputElement>): void {
+    e.preventDefault()
+    setLabel(e.target.value);
+  }
+  function handleObs(e: React.ChangeEvent<HTMLInputElement>): void {
+    e.preventDefault()
+    setObs(e.target.value);
+  }
+  function getMaxValue(): number {
+    const max = options.reduce((acc, cur) => (cur.id > acc ? cur.id : acc) +1, 0)
+    return max == 0 ? 1 : max
+  }
+  function alterTitle(e: React.ChangeEvent<HTMLInputElement>): void {
+    e.preventDefault()
+    setTitle(e.target.value);
+  }
+  function alterOption(e: React.ChangeEvent<HTMLInputElement>): void {
+    e.preventDefault()
     setOptions(prev => {
-      const index = prev.findIndex(a => a[0] == optIndex);
-      prev[index][1].push({
-        id: prev[index][1].length,
-        text: value,
-      });
-      return prev;
-    })
-    console.log('Created OPTION')
+      const index = prev.findIndex(opt => opt.id === Number(e.target.id))
+      prev[index].text = e.target.value
+      return [...prev]
+    });
   }
-  
-  useMemo(() => {
-    if (questions.length) {
-      console.log("Questions:", questions)
-      console.log("Options:", options)
-    }
-  }, [questions, options])
+  function addOption(e: React.MouseEvent<HTMLButtonElement, MouseEvent>) {
+    e.preventDefault()
+    setOptions(prev => [...prev, {id: getMaxValue(), text: "New option"}])
+    setTimeout(() => optionRef.current?.focus(), 100)
+  }
+  function removeOption(e: React.MouseEvent<HTMLButtonElement, MouseEvent>): void {
+    e.preventDefault()
+    const value = Number(e.currentTarget.value)
+    setOptions(prev => {
+      const curr = prev.filter(opt => opt.id !== value)
+      curr.forEach(o => { if (o.id > value) o.id-- })
+      return [...curr]
+    })
+  }
 
-  if (!initalized) fetchBaseQuestions()
-
-  return (
-    <div>
-      <h1>
-        Questions Page
-      </h1>
-      <div style={{ position: 'relative' }} className='container'>
-        <form
-          onSubmit={createQuestion}
-        >
-          <input ref={questionRef} type='text' placeholder={'Create a question'} disabled={!initalized} />
-          <button type="submit">Add</button>
-        </form>
-        <ul>
-          { questions.map(i => <li key={i.id}>
-            <div>
-              {i.text}
-              <span>
-                <button onClick={removeQuestion} value={i.id}> X </button>
-              </span>
-              <form
-                onSubmit={createOption}
-              >
-                <ol>
-                  {
-                    options[options.findIndex(a => a[0] == i.options)][1].map(o => 
-                      <li key={`${i.id}/${o.id}`}>
-                          <span>// {i.id}/{o.id} - </span>
-                          { //! Por algum motivo, a função `removeOption` está sendo executada ao dar submit ao form
-                            <span>{o.text}<button onClick={removeOption} value={[i.id, o.id].map(String)}> X </button></span>
-                          }
-                      </li>
-                    )
-                  }
-                  <input ref={questionIDRef} type='number' value={i.id} readOnly style={{ display: 'none' }} />
-                  <input ref={optionsValueRef} type='text' placeholder={'Create a option'} disabled={!initalized}/>
-                  <button type="submit">Add</button>
-                </ol>
-              </form>
-            </div>
-            </li>)
-          }
-        </ul>
-      </div>
-    </div>
-  )
+  return <>
+    <span>QId: {id}</span>
+    <span><input onChange={alterTitle} value={title} placeholder='Insira um titulo'/></span>
+    <span><input onChange={handleLabel} value={questionLabel} placeholder='Insira uma label'/></span>
+    <span><input onChange={handleObs} value={questionObs} placeholder='Insira uma observação (opcional)'/></span>
+    <span><input type="checkbox" checked={editable} onChange={handleEditable}/>Editable?</span>
+    <span><button onClick={removeQuestion} value={id}>Remove Question</button></span>
+    <ul>
+      { options.map((o, i) => {
+        if (i !== options.length -1)
+          return <li key={o.id}>
+            <span>OId: {o.id}</span>
+            <input onChange={alterOption} value={o.text} id={String(o.id)}/>
+            <span><button onClick={removeOption} value={o.id}>Remove Option</button></span>
+          </li>
+        else return <li key={o.id}>
+            <span>OId: {o.id}</span>
+            <input onChange={alterOption} value={o.text} id={String(o.id)} ref={optionRef}/>
+            <span><button onClick={removeOption} value={o.id}>Remove Option</button></span>
+          </li>
+      }) }
+      <button onClick={addOption}>Create option</button>
+    </ul>
+  </>
 }
 
-export default Questions
+const CensusQuestions = (): JSX.Element => {
+  const [questions, setQuestions] = useState<QuestionSubmit[]>([])
+  const [init, setInit] = useState<boolean>(false)
+
+  function getBaseQuestions(): void {
+    api.get("/questions")
+      .then(res => {
+        const baseQuestions: QuestionSubmit[] = res.data.map((q: QuestionMap) => {
+          return {
+            id: q.id,
+            text: q.question,
+            label: q.questionLabel,
+            obs: q.questionObs,
+            options: q.questionAnswers,
+            isBase: true,
+            wasEdited: false,
+            isEditable: q.isEditable,
+            _id: q._id
+          }
+        })
+        setQuestions(prev => [...prev, ...baseQuestions])
+      })
+      .then(() => setInit(true))
+      .catch(err => console.log(err))
+  }
+
+  function submit(e: React.MouseEvent<HTMLButtonElement, MouseEvent>): void {
+    e.preventDefault()
+    const mapped: QuestionMap[] = questions.map((q): QuestionMap | null => {
+      if (q.wasEdited)
+        return {
+          id: q.id,
+          question: q.text,
+          questionLabel: q.label,
+          questionObs: q.obs,
+          questionAnswers: q.options,
+          isEditable: q.isEditable,
+          _id: q._id
+        }
+      return null
+    }).filter((q): q is QuestionMap => !!q)
+    mapped.forEach(q => {
+      if (!q._id) api.post('/questions', q)
+      else api.put(`/questions/${q._id}`, q)
+    })
+  }
+  function removeQuestion(e: React.MouseEvent<HTMLButtonElement, MouseEvent>): void {
+    const value = Number(e.currentTarget.value)
+    setQuestions(prev => prev.filter(q => q.id !== value))
+  }
+  function getMaxValue(): number {
+    const max = questions.reduce((acc, cur) => (cur.id > acc ? cur.id : acc) +1, 0)
+    return max == 0 ? 1 : max
+  }
+  function addQuestion(isBase: boolean = false): void {
+    const id = getMaxValue()
+    setQuestions(prev => [
+      ...prev, {
+        id,
+        text: "New question",
+        label: "New label",
+        obs: "",
+        options: [],
+        isBase,
+        wasEdited: true,
+        isEditable: false
+      }
+    ])
+  }
+
+  if (!init) getBaseQuestions()
+  return <>
+    <button onClick={() => addQuestion()}>Add Question</button>
+    <div>
+      { questions.map(q => {
+        return <Question
+          key={q.id}
+          id={q.id}
+          isEditable={q.isEditable}
+          onChange={setQuestions}
+          label={q.label}
+          obs={q.obs}
+          removeQuestion={removeQuestion}
+        />
+      })
+      }
+    </div>
+    <button onClick={submit}>Submit</button>
+  </>
+}
+
+export default CensusQuestions
