@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom"
+import { useAuth } from "../../contexts/auth";
 import { usePartner } from "../../contexts/partner";
 import api from "../../services/api";
 import { CensusIndex } from "../../types";
@@ -10,32 +11,35 @@ const CensusPage = () => {
   const navigate = useNavigate();
 
   const { partner } = usePartner();
+  const { admin } = useAuth();
 
   const [ censusList, setCensusList ] = useState<CensusIndex[] | null>(null)
   const [ spinner, setSpinner ] = useState<boolean>(false)
 
   const createNewCensus = async (id: string) => {
-    await api.get(
-      'http://localhost:3333/questions'
+    setSpinner(true);
+    await api.post(
+      `http://localhost:3333/census/${id}`,
     )
-    .then(async (res) => {
-      await api.post(
-        'http://localhost:3333/census',
-        {
-          partnerId: id,
-          questions: res.data
-        }
-      )
+    .then(() => {
+      getAllCensus()
+    })
+    .then(() => {
+      setSpinner(false)
     })
   }
 
-  useEffect(() => {
-    api.get(
+  const getAllCensus = async () => {
+    await api.get(
       `http://localhost:3333/census/all/${partner?.id}`
     )
     .then((res) => {
       setCensusList(res.data)
     })
+  }
+
+  useEffect(() => {
+    getAllCensus()
   }, [partner])
 
   return(
@@ -52,16 +56,10 @@ const CensusPage = () => {
         )
       }
       {
-        partner &&
+        partner && admin &&
         <S.CensusCard
           onClick={() => {
             createNewCensus(partner?.id)
-            setSpinner(true)
-            
-            //then: getPartnerById
-            setTimeout(() => {
-              setSpinner(false)
-            }, 3000)
           }}
         >
         {
