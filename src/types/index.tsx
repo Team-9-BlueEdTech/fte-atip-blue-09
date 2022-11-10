@@ -29,7 +29,7 @@ export interface Partner {
 }
 
 export interface CensusIndex {
-  id: string;
+  _id: string;
   createdAt: string;
 }
 
