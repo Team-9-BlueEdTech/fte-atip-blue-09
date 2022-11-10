@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 import api from "../../services/api";
-import type { QuestionSubmit, Option, QuestionElement, QuestionMap } from "../../types/Questions";
+import type { Question as QuestionSubmit, Option, QuestionElement, QuestionMap } from "../../types/Questions";
 
 const Question = ({ id, removeQuestion, onChange, isEditable, label, obs }: QuestionElement): JSX.Element => {
   const [title, setTitle] = useState<string>("")

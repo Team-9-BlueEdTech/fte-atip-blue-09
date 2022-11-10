@@ -5,22 +5,16 @@ export interface Question {
   text: string
   label: string
   obs: string
+  options: Option[]
   isBase: boolean
   wasEdited: boolean
   isEditable: boolean
   _id?: string
 }
 
-export interface QuestionSubmit extends Question {
-  options: Option[]
-}
 export interface Option {
   id: number
   text: string
-}
-
-export interface QuestionIndex extends Question {
-  options: number
 }
 
 export interface QuestionElement {
@@ -28,7 +22,7 @@ export interface QuestionElement {
   readonly isEditable: boolean
   readonly label: string
   readonly obs: string
-  onChange: React.Dispatch<React.SetStateAction<QuestionSubmit[]>>
+  onChange: React.Dispatch<React.SetStateAction<Question[]>>
   readonly removeQuestion: (event: React.MouseEvent<HTMLButtonElement, MouseEvent>) => void
 }
 
@@ -52,10 +46,36 @@ export interface QuestionMap {
   _id?: string
 }
 
+export interface CollabQuestion {
+  readonly id: number
+  readonly title: string
+  readonly label: string
+  readonly obs: string
+  readonly options: Option[]
+}
+
+export interface CollabQuestionElement extends CollabQuestion {
+  onChange: React.Dispatch<React.SetStateAction<CollabAnswerForm[]>>
+}
+
 export interface CensusQuestionSelect extends Question {
   enabled: boolean
   options: Option[]
 }
 
-export type QuestionArray = QuestionIndex[]
-export type OptionArray = [number, Option[]]
+export interface CollabAnswerForm {
+  questionId: number
+  answerId: number
+}
+
+export interface FormAccepted {
+  questions: CollabAnswerForm[]
+  lgpd: true
+}
+
+export interface FormRejected {
+  questions?: null
+  lgpd: false
+}
+
+export type Form = FormAccepted | FormRejected

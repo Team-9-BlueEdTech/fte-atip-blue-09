@@ -9,6 +9,7 @@ import PartnerPage from "./pages/Partner";
 import { useAuth } from './contexts/auth';
 import Questions from './pages/Questions';
 import CensusQuestions from './pages/Partner/questions';
+import Form from './pages/Form';
 
 const Router = () => {
   const { logged, admin } = useAuth();
@@ -18,6 +19,7 @@ const Router = () => {
       {
         logged && (
           <>
+            <Route path="/form/:id" element={<Form />} />
             <Route path="/census/:censusId" element={<PartnerPage />} />
             <Route path="/census/:censusId/questions" element={<CensusQuestions />} />
             <Route path="/partner/:partnerId" element={<PartnerPage />} />
