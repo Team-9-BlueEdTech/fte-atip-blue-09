@@ -39,7 +39,7 @@ export interface Census {
   id: string;
   partnerId: string;
   launchDate: string;
-  questions: QuestionMap;
+  questions: QuestionMap[];
 }
 
 export interface Person {
