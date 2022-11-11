@@ -1,6 +1,7 @@
 import * as S from './styles'
 import { PartnerIndex } from "../../types"
 import { useNavigate } from "react-router-dom"
+import { DateTime } from "luxon";
 
 const PartnerListing = (partner: PartnerIndex) => {
 
@@ -14,7 +15,7 @@ const PartnerListing = (partner: PartnerIndex) => {
         }}
       >
         <h2>{partner.name}</h2>
-        <p>{partner.createdAt}</p>
+        <p>{DateTime.fromISO(partner.createdAt).toLocaleString()}</p>
       </S.DashLine>
     </>
   )

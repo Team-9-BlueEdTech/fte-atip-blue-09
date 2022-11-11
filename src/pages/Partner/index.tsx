@@ -25,16 +25,14 @@ const PartnerPage = () => {
   const [ page, setPage ] = useState<string>("Email");
 
   useEffect(() => {
-    if (partnerId) {
-      console.log("getPartner");      
+    if (partnerId) {     
       getPartnerById(partnerId);
     }
     if (censusId) {
-      console.log("getCensus");
       getCensusById(censusId);
-      getAnswersByCensusId(censusId);
+      // getAnswersByCensusId(censusId);
     }
-  }, [censusId]);
+  }, [partnerId, censusId]);
 
   return (
     <>

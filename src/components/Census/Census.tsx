@@ -5,6 +5,7 @@ import { usePartner } from "../../contexts/partner";
 import api from "../../services/api";
 import { CensusIndex } from "../../types";
 import * as S from "./styles";
+import { DateTime } from "luxon";
 
 const CensusPage = () => {
 
@@ -15,6 +16,15 @@ const CensusPage = () => {
 
   const [ censusList, setCensusList ] = useState<CensusIndex[] | null>(null)
   const [ spinner, setSpinner ] = useState<boolean>(false)
+
+  const getAllCensus = async () => {
+    await api.get(
+      `http://localhost:3333/census/all/${partner?.id}`
+    )
+    .then((res) => {
+      setCensusList(res.data)
+    })
+  }
 
   const createNewCensus = async (id: string) => {
     setSpinner(true);
@@ -29,15 +39,6 @@ const CensusPage = () => {
     })
   }
 
-  const getAllCensus = async () => {
-    await api.get(
-      `http://localhost:3333/census/all/${partner?.id}`
-    )
-    .then((res) => {
-      setCensusList(res.data)
-    })
-  }
-
   useEffect(() => {
     getAllCensus()
   }, [partner])
@@ -46,12 +47,12 @@ const CensusPage = () => {
     <S.CensusDashboard>
       {
         censusList?.map
-        ((census, index) => 
+        ((census, index) =>
           <S.CensusCard
             key={index}
             onClick={() => navigate(`/census/${census._id}`)}
           >
-            <h2>{census.createdAt}</h2>
+            <h2>{DateTime.fromISO(census.createdAt).toLocaleString()}</h2>
           </S.CensusCard>
         )
       }

@@ -25,21 +25,14 @@ const CensusDashboard = () => {
                 <h3>{name}</h3>
               </S.Filter>
               <S.DivOptions>
-                {
-                  census.options[census.questionsLabels.indexOf(name)].map(
-                    (option: string[], index: number) => 
-                      <S.Filter key={index}>
-                        {option}
-                      </S.Filter>
-                  )
-                }
+
               </S.DivOptions>
             </S.DivFilters>
           )
         }
       </S.MainFilters>
       <S.DivDashboard>
-        {
+        {/* {
           mainCharts.map((chartName, index) => {
             return <ChartCard
               key={index}
@@ -50,7 +43,7 @@ const CensusDashboard = () => {
               options={census.options[census.questionsLabels.indexOf(chartName)]}
             />
           })
-        }
+        } */}
       </S.DivDashboard>
     </S.MainDashboard>
   )

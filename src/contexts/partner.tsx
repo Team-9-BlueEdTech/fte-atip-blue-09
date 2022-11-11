@@ -1,6 +1,5 @@
 import { createContext, Dispatch, ReactNode, SetStateAction, useContext, useState } from "react";
 import { Partner } from "../types";
-import { MockedPartner } from "../mocks/route-partner-id";
 import api from "../services/api";
 
 interface PartnerProviderProps {

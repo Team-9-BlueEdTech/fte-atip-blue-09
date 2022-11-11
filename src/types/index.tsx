@@ -1,3 +1,5 @@
+import { QuestionMap } from "./Questions";
+
 export interface User {
   name?: string;
   email?: string;
@@ -37,11 +39,7 @@ export interface Census {
   id: string;
   partnerId: string;
   launchDate: string;
-  questionsLabels: Array<string | string[] | undefined>;
-  questions: Array<string | string[] | undefined>;
-  questionsObs: Array<string | string[] | undefined>;
-  options: Array<string | string[] | undefined>;
-  collaborated: [];
+  questions: QuestionMap;
 }
 
 export interface Person {
