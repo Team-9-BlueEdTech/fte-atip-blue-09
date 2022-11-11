@@ -4,7 +4,6 @@ import Button from "../../components/Button";
 import Header from "../../components/Header";
 import PartnerList from "../../components/CardPartner/partner";
 import { usePartner } from "../../contexts/partner";
-// import { MockedPartnerList } from "../../mocks/route-admin-partners";
 import { PartnerIndex } from "../../types";
 import * as S from "./styles";
 import api from "../../services/api";
@@ -49,15 +48,15 @@ const Admin = () => {
 
     if (filter === "A") {
       sortedList = partnersList?.sort((a, b) => {
-        if (b.name > a.name) return -1;
-        if (b.name < a.name) return 1;
+        if (b.name.toLowerCase() > a.name.toLowerCase()) return -1;
+        if (b.name.toLowerCase() < a.name.toLowerCase()) return 1;
         return 0;
       })
     }
     if (filter === "Z") {
       sortedList = partnersList?.sort((a, b) => {
-        if (b.name > a.name) return 1;
-        if (b.name < a.name) return -1;
+        if (b.name.toLowerCase() > a.name.toLowerCase()) return 1;
+        if (b.name.toLowerCase() < a.name.toLowerCase()) return -1;
         return 0;
       })
     }
