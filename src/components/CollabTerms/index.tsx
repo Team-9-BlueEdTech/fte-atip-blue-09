@@ -4,7 +4,12 @@ import logo from "../../assets/images/image.png";
 import { useNavigate } from "react-router-dom";
 import * as S from "./styled";
 
-const CollabTerms = () => {
+interface CollabTermsInterface {
+  onAccept: () => void;
+  onReject: () => void;
+}
+
+const CollabTerms = ({ onAccept, onReject }: CollabTermsInterface) => {
   const navigate = useNavigate();
   const { partner } = usePartner();
 
@@ -78,7 +83,8 @@ const CollabTerms = () => {
         interesses das pessoas;
         <br /> - Avaliar o nível de diversidade e inclusão ao longo do tempo.
         <div>
-          <Button text={"Continuar"} onClick={() => navigate("/")} />
+          <Button text={"Continuar"} onClick={onAccept} />
+          <Button text={"Recusar"} onClick={onReject} />
         </div>
       </S.Article>
     </S.MainTerm>

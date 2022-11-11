@@ -1,7 +1,14 @@
 import { useState, useMemo } from "react";
 import { useParams } from "react-router-dom";
 import api from "../../services/api";
+import CollabTerms from "../../components/CollabTerms";
 import { QuestionMap, CollabQuestion, CollabQuestionElement, CollabAnswerForm } from "../../types/Questions";
+
+interface SubmitRequest {
+  question: CollabAnswerForm[] | null
+  lgpdStatus: boolean
+  census: string
+}
 
 const Question = ({ id, onChange, obs, title, options, label }: CollabQuestionElement): JSX.Element => {
   const [option, setOption] = useState<number>(-1)
@@ -43,7 +50,8 @@ const CensusQuestions = (): JSX.Element => {
   const [questions, setQuestions] = useState<CollabQuestion[]>([])
   const [answers, setAnswers] = useState<CollabAnswerForm[]>([])
   const [init, setInit] = useState<boolean>(false)
-  const [censusId] = useState(useParams().censusId)
+  const [LGPTaccepted, setLGPT] = useState<boolean>(false)
+  const [censusId] = useState<string>(useParams().censusId || "undefined")
 
   function getFormQuestions(): void {
     setInit(true)
@@ -66,46 +74,45 @@ const CensusQuestions = (): JSX.Element => {
       .catch(err => console.log(err))
   }
 
-  function submit(e: React.FormEvent<HTMLFormElement>): void {
-    e.preventDefault()
-  //   const mapped: QuestionMap[] = questions.map((q): QuestionMap | null => {
-  //     if (q.wasEdited)
-  //       return {
-  //         id: q.id,
-  //         question: q.text,
-  //         questionLabel: q.label,
-  //         questionObs: q.obs,
-  //         questionAnswers: q.options,
-  //         isEditable: q.isEditable,
-  //         _id: q._id
-  //       }
-  //     return null
-  //   }).filter((q): q is QuestionMap => !!q)
-  //   mapped.forEach(q => {
-  //     if (!q._id) api.post('/questions', q)
-  //     else api.put(`/questions/${q._id}`, q)
-  //   })
+  function submit(answers: CollabAnswerForm[] | null): void {
+    console.log(answers)
+    const data: SubmitRequest = {
+      question: answers,
+      lgpdStatus: LGPTaccepted,
+      census: censusId
+    }
+    console.log(data)
+    api.post('/answers', data)
   }
-  if (!init) getFormQuestions()
+
+  useMemo(() => console.log(LGPTaccepted), [LGPTaccepted])
+
   return <>
-    <form
-      onSubmit={submit}
-    >
-      { questions.map(q => {
-        return <Question
-          key={q.id}
-          id={q.id}
-          onChange={setAnswers}
-          label={q.label}
-          obs={q.obs}
-          options={q.options}
-          title={q.title}
-        />
-      })
-      }
-      <button type='submit'>Submit</button>
-    </form>
-    {/* <button onClick={submit}>Submit</button> */}
+    { LGPTaccepted ? 
+      questions.map(q => <Question
+        key={q.id}
+        id={q.id}
+        onChange={setAnswers}
+        label={q.label}
+        obs={q.obs}
+        options={q.options}
+        title={q.title}
+      />)
+      : <CollabTerms
+        onAccept={() => {
+          setInit(true)
+          if (!init) {
+            setLGPT(true)
+            getFormQuestions()
+          }
+        }}
+        onReject={() => {
+          setInit(true)
+          if (!init) submit(null)
+        }}
+      />
+    }
+    { init && LGPTaccepted && <button onClick={() => submit(answers)}>Submit</button>}
   </>
 }
 
