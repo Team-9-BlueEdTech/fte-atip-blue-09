@@ -28,7 +28,6 @@ const Collab = () => {
   const handleDrop = (e: DragEvent<HTMLFormElement>) => {
     e.stopPropagation()
     e.preventDefault()
-    // setDrag(false)
     setDragOver(false)
     if (e.dataTransfer.files && e.dataTransfer.files[0])
       Array.from(e.dataTransfer.files).forEach(file => file.text().then(parse))
