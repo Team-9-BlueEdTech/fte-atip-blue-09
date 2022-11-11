@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useMemo } from "react";
 import { useParams } from "react-router-dom";
 import api from "../../services/api";
 import { QuestionMap, CollabQuestion, CollabQuestionElement, CollabAnswerForm } from "../../types/Questions";
@@ -7,13 +7,18 @@ const Question = ({ id, onChange, obs, title, options, label }: CollabQuestionEl
   const [option, setOption] = useState<number>(-1)
   function alterOption(e: React.ChangeEvent<HTMLInputElement>): void {
     e.preventDefault()
+    const value = Number(e.target.id)
+    setOption(value);
     onChange(prev => {
       const index = prev.findIndex(opt => opt.questionId === id)
-      prev[index].answerId = Number(e.target.id)
+      prev[index].answerId = value
       return [...prev]
     })
-    setOption(Number(e.target.id));
   }
+
+  useMemo(() => {
+    console.log(id, option)
+  }, [option])
 
   return <>
     <span>QId: {id}</span>
@@ -22,7 +27,7 @@ const Question = ({ id, onChange, obs, title, options, label }: CollabQuestionEl
     <ul>
       { options.map(o => <input
           key={o.id}
-          checked={option == o.id}
+          checked={option === o.id}
           type='radio'
           name={`${id}//${o.id}`}
           onChange={alterOption}
@@ -41,7 +46,9 @@ const CensusQuestions = (): JSX.Element => {
   const [censusId] = useState(useParams().censusId)
 
   function getFormQuestions(): void {
+    setInit(true)
     if (!censusId) return;
+    if (questions.length) return;
     api.get("/census/" + censusId)
       .then(res => {
         const baseQuestions: CollabQuestion[] = res.data.questions.map((q: QuestionMap): CollabQuestion => {
@@ -53,9 +60,9 @@ const CensusQuestions = (): JSX.Element => {
             options: q.questionAnswers,
           }
         })
-        setQuestions(prev => [...prev, ...baseQuestions])
+        setQuestions(baseQuestions)
+        setAnswers(baseQuestions.map(q => ({ answerId: -1, questionId: q.id })))
       })
-      .then(() => setInit(true))
       .catch(err => console.log(err))
   }
 
