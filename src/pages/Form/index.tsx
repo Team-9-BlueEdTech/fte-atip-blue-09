@@ -42,9 +42,9 @@ const CensusQuestions = (): JSX.Element => {
 
   function getFormQuestions(): void {
     if (!censusId) return;
-    api.get("/questions/" + censusId)
+    api.get("/census/" + censusId)
       .then(res => {
-        const baseQuestions: CollabQuestion[] = res.data.map((q: QuestionMap): CollabQuestion => {
+        const baseQuestions: CollabQuestion[] = res.data.questions.map((q: QuestionMap): CollabQuestion => {
           return {
             id: q.id,
             title: q.question,
