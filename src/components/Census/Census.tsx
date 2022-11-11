@@ -19,7 +19,7 @@ const CensusPage = () => {
 
   const getAllCensus = async () => {
     await api.get(
-      `http://localhost:3333/census/all/${partner?.id}`
+      `/census/all/${partner?.id}`
     )
     .then((res) => {
       setCensusList(res.data)
@@ -29,7 +29,7 @@ const CensusPage = () => {
   const createNewCensus = async (id: string) => {
     setSpinner(true);
     await api.post(
-      `http://localhost:3333/census/${id}`,
+      `/census/${id}`,
     )
     .then(() => {
       getAllCensus()

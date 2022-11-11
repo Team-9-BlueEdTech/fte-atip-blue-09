@@ -9,7 +9,7 @@ import * as S from "./styles";
 import CensusDashboard from "../../components/CensusDashboard";
 import { useAuth } from "../../contexts/auth";
 import api from "../../services/api";
-import CensusQuestions from "./questions";
+import CensusQuestions from "../Partner/questions";
 import Collab from "../Collab";
 
 const PartnerPage = () => {
