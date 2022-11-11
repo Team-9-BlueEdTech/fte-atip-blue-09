@@ -1,12 +1,12 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://www.google.com",
+  baseURL: "http://localhost:3333"
 });
 
 api.interceptors.request.use((config: any) => {
   try {
-    const token = localStorage.getItem("jwtLocalStorage");
+    const token = localStorage.getItem("token");
     if (token) {
       config.headers.Authorization = `Bearer ${token}`;
     }
