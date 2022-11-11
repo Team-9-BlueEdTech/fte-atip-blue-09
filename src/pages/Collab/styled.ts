@@ -9,7 +9,10 @@ export const DivDashboard = styled.div`
   border: 1px solid green;
   position: relative;
 
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+
   overflow: auto;
   overflow-x: hidden;
-
 `;
