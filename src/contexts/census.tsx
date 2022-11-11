@@ -1,7 +1,7 @@
-import { createContext, ReactNode, useContext, useEffect, useState } from "react";
+import { createContext, ReactNode, useContext, useState } from "react";
 import { Answers, Census } from "../types";
 import api from "../services/api";
-import { useParams } from "react-router-dom";
+import { QuestionMap } from "../types/Questions";
 
 interface CensusProviderProps {
   children: ReactNode;
@@ -12,21 +12,24 @@ interface CensusProviderData {
   getCensusById: (censusId: string) => void;
   answers: Answers | undefined;
   getAnswersByCensusId: (censusId: string) => void;
+  questions: QuestionMap | undefined;
 };
 
 const CensusContext = createContext<CensusProviderData>({} as CensusProviderData);
 
 export const CensusProvider = ({ children }: CensusProviderProps) => {
 
-  const [ census, setCensus ] = useState<Census>();
-  const [ answers, setAnswers ] = useState<Answers>()
+  const [ census, setCensus ] = useState<Census>();  
+  const [ questions, setQuestions ] = useState<QuestionMap>();
+  const [ answers, setAnswers ] = useState<Answers>();
 
   const getCensusById = async (censusId: string) => {
     await api.get(
       `/census/${censusId}`
     )
     .then((res) => {
-      setCensus(res.data); 
+      setCensus(res.data);
+      setQuestions(res.data.questions); 
     })
   };
 
@@ -38,7 +41,7 @@ export const CensusProvider = ({ children }: CensusProviderProps) => {
   }
 
   return (
-    <CensusContext.Provider value={{ census, getCensusById, answers, getAnswersByCensusId }}>
+    <CensusContext.Provider value={{ census, getCensusById, answers, getAnswersByCensusId, questions }}>
       { children }
     </CensusContext.Provider>
   );
