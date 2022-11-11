@@ -16,7 +16,7 @@ const Header = () => {
         <h2>
           Jornada aTípica
           {
-            partner && ` - ${partner.name}`
+            partner && ` - ${partner.name}` 
           }
         </h2>
       </div>

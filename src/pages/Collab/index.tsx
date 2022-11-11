@@ -1,6 +1,8 @@
 import { useRef, useMemo, useState, DragEvent, FormEvent } from "react"
 import '../../assets/styles/collab.css'
-
+import * as S from "./styled";
+import Header from "../../components/Header";
+import Button from "../../components/Button";
 const Collab = () => {
   const [dragActive, setDrag] = useState<boolean>(true)
   const [dragOver, setDragOver] = useState<boolean>(false)
@@ -55,20 +57,17 @@ const Collab = () => {
   }, [list])
 
   return (
-    <div>
+    <>
+    <Header />
+    <S.MainCollab>
       <h1>
         Collab Page
       </h1>
-      <div style={{ position: 'relative' }} className='container'>
+      <S.DivDashboard>
+  
+      <div className='container'>
         <form
           id="file-upload"
-          style={{
-            userSelect: 'none',
-            border:'5px solid transparent',
-            position: 'relative',
-            top: 0,
-            left: 0
-          }}
           onDragOver={() => setDragOver(true)}
           onDragLeave={() => setDragOver(false)}
           onDrop={handleDrop}
@@ -106,9 +105,11 @@ const Collab = () => {
           id='add-single'
         >
           <input ref={inputRef} type='text' />
-          <button type="submit">Add</button>
+          {/*<button type="submit">Add</button>*/}
+          <Button variant="add" type="submit" text="add" />
         </form>
-        <button type="submit" onClick={executeSubmit}>Submit Emails</button>
+        {/*<button type="submit" onClick={executeSubmit}>Submit Emails</button>*/}
+        <Button type="submit" text="Submit Emails" onClick={executeSubmit}/>
         <ul>
           { list.map(i => <li key={i}>
             <div>{i}
@@ -120,7 +121,9 @@ const Collab = () => {
           }
         </ul>
       </div>
-    </div>
+      </S.DivDashboard>
+    </S.MainCollab>
+    </>
   )
 }
 
