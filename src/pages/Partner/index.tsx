@@ -17,31 +17,22 @@ const PartnerPage = () => {
   const navigate = useNavigate();
 
   const { partnerId, censusId } = useParams();
-  console.log(partnerId, censusId);
   
   const { admin } = useAuth();
   const { partner, getPartnerById } = usePartner();
   const { getCensusById, getAnswersByCensusId } = useCensus();
 
-  const [page, setPage] = useState<string>("Email");
+  const [ page, setPage ] = useState<string>("Email");
 
   useEffect(() => {
-    if (partnerId) {
-      console.log("getPartner");      
+    if (partnerId) {     
       getPartnerById(partnerId);
     }
     if (censusId) {
-      console.log("getCensus");
       getCensusById(censusId);
-      getAnswersByCensusId(censusId);
+      // getAnswersByCensusId(censusId);
     }
-  }, [censusId]);
-
-  // useEffect(()=>{
-  //   if(partner?.firstLogin == true){
-  //     navigate(`/partner/${partnerId}/firstLogin`)
-  //   }
-  // }, []);
+  }, [partnerId, censusId]);
 
   return (
     <>

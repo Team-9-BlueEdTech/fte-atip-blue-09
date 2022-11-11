@@ -26,10 +26,10 @@ const CensusDashboard = () => {
               </S.Filter>
               <S.DivOptions>
                 {
-                  census.options[census.questionsLabels.indexOf(name)].map(
-                    (option: string[], index: number) => 
+                  census?.questions[index + 6].questionAnswers.map(
+                    (option, index) => 
                       <S.Filter key={index}>
-                        {option}
+                        {option.text}
                       </S.Filter>
                   )
                 }
@@ -44,10 +44,10 @@ const CensusDashboard = () => {
             return <ChartCard
               key={index}
               title={chartName}
-              data={answers.map(answer => {
-                return answer.list[census.questionsLabels.indexOf(chartName)]
-              })}
-              options={census.options[census.questionsLabels.indexOf(chartName)]}
+              // data={answers.map(answer => {
+              //   return answer.list[census.questionsLabels.indexOf(chartName)]
+              // })}
+              options={census?.questions[index].questionAnswers}
             />
           })
         }
