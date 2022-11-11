@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { useParams } from "react-router-dom";
 import api from "../../services/api";
 import { QuestionMap, CollabQuestion, CollabQuestionElement, CollabAnswerForm } from "../../types/Questions";
 
@@ -37,9 +38,11 @@ const CensusQuestions = (): JSX.Element => {
   const [questions, setQuestions] = useState<CollabQuestion[]>([])
   const [answers, setAnswers] = useState<CollabAnswerForm[]>([])
   const [init, setInit] = useState<boolean>(false)
+  const [censusId] = useState(useParams().censusId)
 
-  function getBaseQuestions(): void {
-    api.get("/questions")
+  function getFormQuestions(): void {
+    if (!censusId) return;
+    api.get("/questions/" + censusId)
       .then(res => {
         const baseQuestions: CollabQuestion[] = res.data.map((q: QuestionMap): CollabQuestion => {
           return {
@@ -76,7 +79,7 @@ const CensusQuestions = (): JSX.Element => {
   //     else api.put(`/questions/${q._id}`, q)
   //   })
   }
-  if (!init) getBaseQuestions()
+  if (!init) getFormQuestions()
   return <>
     <form
       onSubmit={submit}
