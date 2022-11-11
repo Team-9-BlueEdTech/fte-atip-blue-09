@@ -47,7 +47,7 @@ const CensusDashboard = () => {
               // data={answers.map(answer => {
               //   return answer.list[census.questionsLabels.indexOf(chartName)]
               // })}
-              options={census?.questions[index].questionAnswers}
+              options={census?.questions[index].questionAnswers || []}
             />
           })
         }

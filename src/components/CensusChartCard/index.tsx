@@ -1,6 +1,13 @@
 import * as S from './styles'
 
-const ChartCard = ({ title, options }) => {
+interface ChartCardProps {
+  title: string
+  options: {
+    text: string
+  }[]
+}
+
+const ChartCard = ({ title, options }: ChartCardProps) => {
 
   const colors = [
     "#2176AE",
