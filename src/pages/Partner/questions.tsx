@@ -90,7 +90,8 @@ const CensusQuestions = (): JSX.Element => {
             enabled: true
           }
         })
-        setQuestions(prev => [...prev, ...baseQuestions])
+        // setQuestions(prev => [...prev, ...baseQuestions])
+        setQuestions(baseQuestions)
       })
       .then(() => setInit(true))
       .catch(err => console.log(err))
