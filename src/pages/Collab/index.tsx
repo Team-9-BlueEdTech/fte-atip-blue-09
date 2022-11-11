@@ -57,71 +57,64 @@ const Collab = () => {
 
   return (
     <>
-    <Header />
-    <S.MainCollab>
-      <h1>
-        Collab Page
-      </h1>
       <S.DivDashboard>
-  
-      <div className='container'>
-        <form
-          id="file-upload"
-          onDragOver={() => setDragOver(true)}
-          onDragLeave={() => setDragOver(false)}
-          onDrop={handleDrop}
-          onChange={handleChange}
-        >
-          <input
-            type='file'
-            accept='text/csv'
-            multiple={true}
-            disabled={!dragActive}
-            id="file-input"
-          />
-          <label
-            id="label-upload"
-            htmlFor="file-input"
-            style={{
-              borderColor: dragOver ? '#00FA19' :  '#CBD5E1',
-              color: dragOver ? '#00FA19' :  'aliceblue'
-            }}
+        <div className='container'>
+          <form
+            id="file-upload"
+            onDragOver={() => setDragOver(true)}
+            onDragLeave={() => setDragOver(false)}
+            onDrop={handleDrop}
+            onChange={handleChange}
           >
-            <div style={{ fontSize: '50px', textAlign: 'center' }}>
-              <p>Drag a CSV file or</p>
-              <button className="upload-button">Upload a file</button>
-            </div>
-          </label>
-        </form>
-        <form
-          onSubmit={e => {
-            e.preventDefault()
-            const value = inputRef.current?.value
-            if (!value) return;
-            setList(prev => [...prev, value])
-            inputRef.current.value = ''
-          }}
-          id='add-single'
-        >
-          <input ref={inputRef} type='text' />
-          {/*<button type="submit">Add</button>*/}
-          <Button variant="add" type="submit" text="add" />
-        </form>
-        {/*<button type="submit" onClick={executeSubmit}>Submit Emails</button>*/}
-        <Button type="submit" text="Submit Emails" onClick={executeSubmit}/>
-        <ul>
-          { list.map(i => <li key={i}>
-            <div>{i}
-              <span>
-                <button onClick={removeIndex} value={i}> X </button>
-              </span>
-            </div>
-            </li>)
-          }
-        </ul>
-      </div>
+            <input
+              type='file'
+              accept='text/csv'
+              multiple={true}
+              disabled={!dragActive}
+              id="file-input"
+            />
+            <label
+              id="label-upload"
+              htmlFor="file-input"
+              style={{
+                borderColor: dragOver ? '#00FA19' :  '#CBD5E1',
+                color: dragOver ? '#00FA19' :  'aliceblue'
+              }}
+            >
+              <div style={{ fontSize: '50px', textAlign: 'center' }}>
+                <p>Drag a CSV file or</p>
+                <button className="upload-button">Upload a file</button>
+              </div>
+            </label>
+          </form>
+          <form
+            onSubmit={e => {
+              e.preventDefault()
+              const value = inputRef.current?.value
+              if (!value) return;
+              setList(prev => [...prev, value])
+              inputRef.current.value = ''
+            }}
+            id='add-single'
+          >
+            <input ref={inputRef} type='text' />
+            {/*<button type="submit">Add</button>*/}
+            <Button variant="add" type="submit" text="add" />
+          </form>
+          {/*<button type="submit" onClick={executeSubmit}>Submit Emails</button>*/}
+          <Button type="submit" text="Submit Emails" onClick={executeSubmit}/>
+          <ul>
+            { list.map(i => <li key={i}>
+              <div>{i}
+                <span>
+                  <button onClick={removeIndex} value={i}> X </button>
+                </span>
+              </div>
+              </li>)
+            }
+          </ul>
+        </div>
       </S.DivDashboard>
-    </S.MainCollab>
     </>
   )
 }

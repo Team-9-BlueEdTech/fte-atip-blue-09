@@ -6,11 +6,11 @@ import { useCensus } from "../../contexts/census";
 import { usePartner } from "../../contexts/partner";
 import CensusPage from "../../components/Census/Census";
 import * as S from "./styles";
-import EmailListing from "../../components/ListingEmail";
-import QuestionsList from "../../components/ListingQuestions";
 import CensusDashboard from "../../components/CensusDashboard";
 import { useAuth } from "../../contexts/auth";
 import api from "../../services/api";
+import CensusQuestions from "./questions";
+import Collab from "../Collab";
 
 const PartnerPage = () => {
 
@@ -100,8 +100,8 @@ const PartnerPage = () => {
         }
         {
           censusId && (
-            page === "Email" ? <EmailListing /> :
-            page === "Perguntas" ? <QuestionsList /> :
+            page === "Email" ? <Collab /> :
+            page === "Perguntas" ? <CensusQuestions /> :
             page === "Dashboard" ? <CensusDashboard /> :
             page === "Adesão" ? <h1>Adesão</h1> :
             <CensusPage />

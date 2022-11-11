@@ -6,8 +6,8 @@
 }
 
 #file-input {
-  height: 100%;
-  width: 100%;
+  height: 10rem;
+  width: 10rem;
   display: block;
   opacity: 0;
   position: absolute;

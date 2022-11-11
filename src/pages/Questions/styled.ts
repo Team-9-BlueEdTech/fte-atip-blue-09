@@ -1,14 +1,13 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-width: 120rem;
-height: 29rem;
-margin-left: 1rem ;
-display: flex;
-flex-direction: column;
-padding: 1rem;
-gap: 1rem;
-background: ;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  padding-top: 6rem; //for navbar
+  gap: 1rem;
 `
 
 export const SpanQuest = styled.span`
