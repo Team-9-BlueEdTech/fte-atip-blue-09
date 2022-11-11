@@ -19,7 +19,6 @@ const Router = () => {
       {
         logged && (
           <>
-            <Route path="/form/:id" element={<Form />} />
             <Route path="/census/:censusId" element={<PartnerPage />} />
             <Route path="/census/:censusId/questions" element={<CensusQuestions />} />
             <Route path="/partner/:partnerId" element={<PartnerPage />} />
@@ -39,6 +38,7 @@ const Router = () => {
         <Route path="/" element={<Home />} />
         <Route path="/login" element={<Login />} />
         <Route path="/collab" element={<Collab />} />
+        <Route path="/form/:censusId" element={<Form />} />
         <Route path="*" element={<Navigate to={admin ? "/admin" : "/"} replace />} />
       </>      
     </Routes>  
